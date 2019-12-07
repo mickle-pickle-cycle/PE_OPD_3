@@ -1,0 +1,3314 @@
+Max = 14
+Min = 14
+Average = 14.0
+
+Android	0
+Java	0
+Kotlin	0
+C#	0
+ООП	0
+MySQL	0
+UML	0
+Analysis	0
+OOP	0
+WBS	0
+Релиз-менеджер	0
+Git	0
+JavaScript	0
+HTML	0
+Node.js	0
+CSS	0
+React	0
+Linux	0
+Английский язык	0
+C++	0
+Mac Os	0
+Windows 7	0
+Работа с базами данных	0
+Математический анализ	0
+Statistica	0
+Пользователь ПК	0
+Поиск информации в интернет	0
+CSS3	0
+HTML5	0
+PHP	0
+jQuery	0
+Ajax	0
+Адаптивная верстка	0
+CMS Wordpress	0
+Adobe Photoshop	0
+Высокая скорость печати	0
+Web-дизайн	0
+Графический дизайн	0
+Adobe Illustrator	0
+Автоматизированное рабочее место (АРМ)	0
+MS Dos	0
+CRM	0
+Маркетинговый анализ	0
+Интернет-реклама	0
+Разработка маркетинговой стратегии	0
+Сопровождение клиентов	0
+Планирование маркетинговых кампаний	0
+Контекстная реклама	0
+Google AdWords	0
+Яндекс.Директ	0
+Google Analytics	0
+Яндекс.Метрика	0
+Интернет маркетинг	0
+Копирайтинг	0
+Управление интернет-проектами	0
+SEO	0
+Создание сайтов	0
+1С программирование	0
+Консультирование	0
+1С: Документооборот	0
+Обновление конфигурации 1С	0
+Клиентоориентированность	0
+Настройка ПК	0
+Деловое общение	0
+Информационные технологии	0
+Навыки межличностного общения	0
+обучение сотрудников	0
+Многозадачность	0
+1С: Предприятие	0
+C/C++	0
+Python	0
+3ds Max	0
+Delphi	0
+Веб-программирование	0
+Стажёр Web-программист	0
+Ответственность	0
+Коммуникативные навыки	0
+Компьютерная грамотность	0
+Быстрая обучаемость	0
+Интерес к технике и науке	0
+Организаторские навыки	0
+Ведение переговоров	0
+Работа в команде	0
+Проведение презентаций	0
+Групповое обучение	0
+Обучение и развитие	0
+Преподавание	0
+Робототехника	0
+Управление персоналом	0
+Деловая коммуникация	0
+Обучение персонала	0
+Работа с детьми	0
+обучаемость, коммуникабельность, желание развиваться	0
+Product Owner SberDevices	0
+Информационная безопасность	0
+MS Access	0
+Электронная почта	0
+Грамотная речь	0
+Работа с большим объемом информации	0
+Творческое мышление	0
+Руководитель продукта	0
+DevOps инженер	0
+UI/UX-дизайнер	0
+SEO оптимизация	0
+SEO-копирайтинг	0
+Внутренняя оптимизация сайта	0
+Внешняя оптимизация сайта	0
+СЕО	0
+Составление семантического ядра	0
+Веб-дизайнер	0
+Полиграфический дизайн	0
+Web Design	0
+Дизайн полиграфии	0
+Дизайн интерфейсов	0
+Дизайн	0
+Веб-дизайн	0
+Adobe InDesign	0
+Рисунок	0
+Креативность	0
+Графические редакторы	0
+Иллюстрирование	0
+Графика	0
+1С-Битрикс	0
+Стрессоустойчивость	0
+Документальное сопровождение	0
+Сборка ПК	0
+Умение работать в команде	0
+CorelDRAW	0
+Обработка изображений	0
+Adobe Lightroom	0
+PHP-программист	0
+Atlassian Jira	0
+Грамотность	0
+Adobe Acrobat	0
+Ведущий разработчик 1С (интернет-проект в области интеллектуальной собственности)	0
+общительный	0
+Коммуникабельность	0
+Позитив	0
+Желание обучаться	0
+любовь к детям	0
+MS Visual Studio	0
+WPF	0
+Windows Forms	0
+MS SQL	0
+ORACLE	0
+Access	0
+UX/UI дизайнер	0
+Руководитель отдела продаж	0
+Руководитель отдела технической поддержки	0
+Тестирование	0
+Borland Delphi	0
+Разработка ПО	0
+SQL	0
+Системный анализ	0
+1С: Предприятие 8	0
+1C: Бухгалтерия	0
+UX	0
+Монтаж оборудования	0
+Windows Xp	0
+Локальные сети	0
+Тестировщик / QA	0
+Тестирование пользовательского интерфейса	0
+Функциональное тестирование	0
+Test case	0
+Front-end Developer (JavaScript, React)/Разработчик Web-приложений	0
+Специалист/ведущий специалист (регистрация/ перерегистрация подвижного состава)	0
+Первичные документы	0
+Первичная бухгалтерская документация	0
+Ориентация на результат	0
+Навыки переговоров	0
+Составление договоров	0
+Работа с клиентами	0
+Консультирование клиентов по телефону	0
+Работа с людьми	0
+Администрирование	0
+Windows Os	0
+Windows Vista	0
+Windows Server 2003	0
+Ремонт ПК	0
+Администрирование серверов Windows	0
+Настройка ПО	0
+Frontend разработчик - ReactJS	0
+Perl	0
+MS Outlook	0
+Управленческие навыки	0
+MS Internet Explorer	0
+TCP/IP	0
+MS Visio	0
+MS Office	0
+bash/shell	0
+Java разработчик (Middle)	0
+Frontend-разработчик (верстальщик)	0
+API	0
+AutoCAD	0
+Проектная документация	0
+Автоматизация технологических процессов	0
+Директор ИТ в "МАКС-М" (ОМС)	0
+Специалист по тестированию программного обеспечения	0
+Блочная верстка	0
+Валидная верстка	0
+Кроссбраузерная верстка	0
+Семантическая верстка	0
+Верстка Div	0
+Верстка	0
+vue.js	0
+Vue	0
+DOMObject	0
+stylus	0
+MVC	0
+Bootstrap	0
+Sass	0
+Руководитель направления по автоматизации	0
+Администрирование сайтов	0
+Управление проектами	0
+Администратор проектов	0
+phpMyAdmin	0
+Qt	0
+Менеджер продукта / Product owner	0
+Менеджер проектов в вебстудию	0
+Проектирование пользовательских интерфейсов	0
+Product Manager	0
+SEO-специалист (интернет-маркетолог)	0
+Регресcионное тестирование	0
+Автоматизированное тестирование	0
+Поисковая оптимизация сайтов	0
+Продвижение сайтов	0
+внутренний аудит сайта	0
+внешний аудит сайта	0
+XML	0
+Unix	0
+QA	0
+Проектный менеджмент	0
+Веб-аналитика	0
+Оптимизация бизнес-процессов	0
+Project Manager / Менеджер проектов (web)	0
+Деловая переписка	0
+Internet Marketing	0
+IOS разработчик	0
+Less	0
+Yii	0
+Опыт работы с ККМ (Штрих, Атол)	0
+Опыт работы с POS-системой	0
+Опыт работы с оборудованием: сканеры, ТСД, принтеры ШК, весы	0
+Знание принципов работы ККМ и торгового оборудования	0
+Директор по производству ПО	0
+Программист 1С (УХ)	0
+Пунктуальность	0
+Внимательность	0
+Аккуратность	0
+Сообразительность	0
+Программист 1С	0
+Разработчик JS	0
+HTTP	0
+AngularJS	0
+Typescript	0
+Тестировщик ПО	0
+1С: Розница	0
+1С: Торговля	0
+Selenium IDE	0
+Автоматизация	0
+АСУ ТП	0
+Автоматизация производства	0
+КИПиА	0
+Электрические системы и слаботочные системы	0
+ЕСКД	0
+Проектно-конструкторская деятельность	0
+Инжиниринг	0
+автоматика	0
+Шкафы управления	0
+Шкафы автоматики	0
+ePLAN	0
+Autocad Electrical	0
+Caddy	0
+e3.series	0
+САПР	0
+MS Excel	0
+Электрощитовое оборудование	0
+ЧРП	0
+ПЛК	0
+Проектирование шкафов управления	0
+Компас электрик	0
+SolidWorks Electrical	0
+фриланс	0
+UX/UI дизайнер (FinTech)	0
+Наполнение контентом	0
+SMM	0
+instagram	0
+Разработка сайтов	0
+1С: Управление Производственным Предприятием	0
+1С: Бухгалтерия	0
+1С: Управление Торговлей	0
+ReactJS	0
+Data Scientist / Machine Learning Developer	0
+Старший системный аналитик	0
+Алгоритмическое мышление	0
+Готовность к саморазвитию	0
+Позитивный образ мыслей	0
+PHP5	0
+Менеджер разработки интернет-проектов	0
+Консультирование клиентов	0
+Joomla CMS	0
+Мобильность	0
+Базы данных	0
+Vue.js	0
+Project Manager (Digital)	0
+Project manager	0
+Product manager	0
+Далион	0
+Frontend-разработчик	0
+Билд-инженер/Программист Python (Continuous Integration)	0
+Разработчик JavaScript	0
+Figma	0
+1С	0
+Middle PHP разработчик	0
+JUnit	0
+TestNG	0
+webdriver	0
+DevOps/ Site Reliability Engineer	0
+Web-разработчик	0
+Frontend-разработчик (Donation Alerts)	0
+Frontend разработчик (JavaScript)	0
+bitrix24	0
+Битрикс24	0
+Frontend-разработчик (видеоплеер, SmartTV)	0
+PostgreSQL	0
+.NET Framework	0
+Scrum	0
+Планирование	0
+IT проекты	0
+Управление разработкой	0
+Разработка технических заданий	0
+JSON API	0
+JSON	0
+react.js	0
+Корпоративная этика	0
+VBA	0
+Веб-разработчик frontend	0
+Laravel	0
+Symfony	0
+Zend Framework	0
+Docker	0
+удаленная работа	0
+Web-дизайнер	0
+Python developer	0
+1С: Зарплата и кадры	0
+1С: Зарплата и управление персоналом	0
+1С: Комплексная автоматизация	0
+1С: Склад	0
+1С: Торговля и склад	0
+UX/UI designer	0
+Руководитель интернет-проектов	0
+1С: Управление предприятием	0
+UX/UI Дизайнер	0
+Разработка проектной документации	0
+CODESYS	0
+SCADA	0
+ГОСТ	0
+Компас-3D	0
+вакуумное оборудование	0
+плазменное оборудование	0
+Java-разработчик	0
+Atlassian Confluence	0
+trello	0
+Верстка/Веб-разработчик (Битрикс)	0
+PHP 7+	0
+SOAP	0
+REST	0
+Senior Software Developer in .NET profilers team (dotTrace/dotMemory)	0
+Программист ASP.NET	0
+Business Analyst	0
+1С: Производство	0
+ERP-системы на базе 1С	0
+UI/UX дизайнер	0
+Frontend Developer (React)	0
+react	0
+Руководство коллективом	0
+Активные продажи	0
+Управление отношениями с клиентами	0
+Мотивация персонала	0
+Аналитика продаж	0
+Управление продажами	0
+TypeScript	0
+Redux	0
+Менеджер по контекстной рекламе	0
+Angular.js	0
+vuex	0
+es6	0
+XML/Xslt	0
+gitlab	0
+nuxt	0
+Младший руководитель проектов / Junior project manager	0
+Unity	0
+gamedev	0
+Game Programming	0
+Разработчик PHP Laravel (Middle)	0
+JS	0
+PHPUnit	0
+Front-End разработчик (web разработчик)	0
+Spring Framework	0
+Верстальщик	0
+Golang developer	0
+Дизайнер UX/UI (проект Торги)	0
+Nginx	0
+Разработчик DWH/BI	0
+Системы видеонаблюдения	0
+Active Directory	0
+Настройка серверов	0
+Frontend-разработчик (React)	0
+Django Framework	0
+Web-дизайнер/UI/UX дизайнер	0
+Experience Design	0
+UI	0
+Разработка концепции	0
+Дизайнер (UX / UI)	0
+IT Area Lead	0
+VueJS	0
+Менеджер продукта	0
+Webpack	0
+PHP7	0
+Fullstack	0
+Высоконагруженные системы	0
+Redis	0
+Frontend разработчик	0
+Программист -тестировщик (отдел автотестирования)	0
+Junior Java разработчик	0
+Модульное тестирование	0
+Нагрузочное тестирование	0
+Selenium WebDriver	0
+TestComplete	0
+SoapUI	0
+JMeter	0
+Cucumber	0
+Full-stack разработчик	0
+Программист-тестировщик	0
+Diasoft	0
+Web Application Development	0
+Java SE	0
+Java Collections	0
+Java Multithreading	0
+Шаблоны проектирования	0
+MongoDB	0
+Linux or Unix	0
+Entity Framework	0
+ASP.NET	0
+NoSQL	0
+Android SDK	0
+MVP	0
+MVVM	0
+SOLID	0
+SCSS	0
+Разработчик .Net Full-stack	0
+PHP-разработчик	0
+Front end разработчик	0
+Gulp	0
+Composer	0
+кассы	0
+Senior .NET developer (Scrum Master)	0
+Senior Python Developer (Payment Systems), Cyprus, Limassol	0
+ERP Systems	0
+ERP	0
+Разработка инструкций	0
+web-разработка	0
+адаптивная верстка	0
+веб-анимация	0
+frontend	0
+yii2	0
+CUDA	0
+Computer Vision	0
+Machine Learning	0
+GUI программист/Frontend-разработчик	0
+PHP программист	0
+UХ/UI -дизайнер	0
+Sketch	0
+Прототипирование	0
+Landing Page	0
+Agile Project Management	0
+Apache Maven	0
+iOS	0
+Swift	0
+Программист	0
+MS SQL Server	0
+Организационные навыки	0
+опыт в стартапах	0
+Постановка задач разработчикам	0
+ES5/6/7	0
+CSS3+	0
+HTML5+	0
+NoSQL DB	0
+CI/CD	0
+PHP 7	0
+Yii2	0
+Исполнительность	0
+MS Project	0
+Project management	0
+Руководитель ИТ-проектов (Collection)	0
+SVN	0
+Bitrix API	0
+Unit Testing	0
+Clean Architecture	0
+RxJava	0
+Dagger	0
+Начальник отдела программного обеспечения	0
+QA инженер	0
+IOS разработчик Stream Мой MTS Санкт-Петербург	0
+Java-разработчик в отдел инфосистем	0
+Software Development	0
+DSP	0
+ЦОС	0
+Bash	0
+E-Commerce	0
+Team Lead Java	0
+Системное мышление	0
+Способность эффективно работать в режиме многозадачности	0
+Желание развиваться	0
+Software developer C++ (algorithms & optimization)	0
+Руководитель отдела веб-разработки	0
+Pascal	0
+vue	0
+Erlang	0
+Polymer	0
+Web components	0
+CMS Bitrix	0
+Аналитическое мышление	0
+1С УНФ	0
+1C: Финансы	0
+Бизнес-анализ	0
+Бизнес-консультирование	0
+Финансовая отчетность	0
+Бухгалтерский учет	0
+ES6	0
+angular2+	0
+Архитектор информационных сервисов (корпоративный блок)	0
+WCF	0
+LINQ	0
+jetbrains YouTrack	0
+Agile	0
+Net	0
+Transact-SQL	0
+net.core	0
+OrmLite	0
+ServiceStack	0
+SQL 2017	0
+Support Engineer	0
+С#	0
+Django	0
+Rest API	0
+Jenkins	0
+TeamCity	0
+Zabbix	0
+Подготовка презентаций	0
+MS PowerPoint	0
+Анализ инвестиционных проектов	0
+Full-stack разработчик (веб)	0
+IT Project Specialist	0
+JavaScript/TypeScript	0
+PyQt	0
+PySide	0
+React.js	0
+UX дизайнер	0
+UI/UX	0
+Webflow	0
+Tilda	0
+After Effects	0
+redux	0
+JavaScript ES6+	0
+Storybook	0
+Axure RP	0
+Java разработчик (Spring Boot)	0
+Objective-C	0
+fastlane	0
+Boost	0
+STL	0
+Программист PHP	0
+Владелец продукта (Product Owner)	0
+Java EE	0
+Apache Tomcat	0
+Billing	0
+Организационное проектирование	0
+BPMN	0
+Руководитель проектов 1C	0
+1С: Предприятие: Бухгалтерский Учет	0
+1C: Зарплата и кадры	0
+Front-End разработчик	0
+SPA	0
+Анализ данных	0
+консультирование пользователей	0
+Gitlab	0
+docker	0
+VMware	0
+RabbitMQ	0
+Codable	0
+VIPER	0
+Frontend developer (B2B)	0
+Проведение тестирований	0
+База данных: Oracle	0
+Системная интеграция	0
+Бизнес-моделирование	0
+IDEF0	0
+Разработка регламентов	0
+Обучение	0
+React-native	0
+Flutter	0
+HTML4-5	0
+CSS2-3	0
+Управление временем	0
+Celery	0
+Менеджер по развитию продуктов	0
+Системный аналитик	0
+.NET	0
+.net core	0
+Программист 1C	0
+Java ЕЕ 8	0
+Spring	0
+JPA	0
+Hibernate	0
+Jasper Reports	0
+BPM Camunda	0
+Mapstruct	0
+Lombok	0
+кадровый учет	0
+Налоговый учет	0
+Ember	0
+Веб-разработчик / Программист	0
+Microservices	0
+CI/CD (Jenkins pipelines)	0
+Linux (CentOS, Debian)	0
+Atlassian Jira, Confluence, Bitbucket	0
+Программист-консультант 1C 8.3 Зарплата и управление персоналом	0
+Заключение договоров	0
+Backend	0
+Web API	0
+Микросервисы	0
+микросервисная архитектура	0
+Java spring framework	0
+B2B Продажи	0
+Холодные продажи	0
+Развитие продаж	0
+Прямые продажи	0
+Навыки продаж	0
+Поиск и привлечение клиентов	0
+Навыки презентации	0
+js (es6)	0
+Hibernate ORM	0
+Apache HTTP Server	0
+Администрирование серверов Linux	0
+Рефакторинг кода	0
+Team management	0
+Kubernetes	0
+Ruby	0
+Iron Python	0
+SSR	0
+Pug	0
+Development	0
+Architecture	0
+NAT	0
+самодисциплина	0
+Cистемы управления базами данных	0
+Инновационный менеджмент	0
+СЭД	0
+Big Data	0
+Data Analysis	0
+Data Mining	0
+Микросервисная архитектура	0
+NLP	0
+Нейронные сети	0
+Продажи через интернет	0
+Управление малым и средним бизнесом	0
+Системный аналитик в направление antifraud и противодействие мошенничеству	0
+Холодные звонки	0
+Планирование продаж	0
+Algorithmic trading	0
+Algotrading	0
+Backtesting	0
+Backend/SQL developer	0
+PHP-разработчик (Symfony)	0
+Программист С++	0
+Ведущий программист С (Си)	0
+Scala разработчик	0
+Middle C# Developer ASP.NET MVC	0
+vuejs	0
+backend	0
+Работа с оргтехникой	0
+Руководитель проектов по разработке программного обеспечения	0
+HTML-верстальщик / помощник SEO-оптимизатора	0
+Borland C++	0
+MS Visual Basic	0
+Баннерная реклама	0
+Front-end разработчик	0
+Frontend-разработчик (Web, JavaScript, React)	0
+Team Lead / Ruby on Rails разработчик	0
+Консультативные продажи	0
+Оценка потребностей клиентов	0
+телефонные продажи	0
+Product Manager (международный проект)	0
+Целеустремленность	0
+Jetbrains Phpstorm	0
+Деловой этикет	0
+Администратор инфраструктуры JSOC	0
+Создание конфигурации 1С	0
+Программист игровой логики C# (Unity)	0
+Прием и распределение телефонных звонков	0
+RPA	0
+Роботизированная Автоматизация	0
+Оптимизация бизнес процессов	0
+Моделирование бизнес процессов	0
+electroNeek	0
+Helpdesk	0
+Директор департамента системной аналитики	0
+Организация встреч	0
+Математическая статистика	0
+Статистический анализ	0
+Аналитические исследования	0
+Математическое моделирование	0
+Математическое программирование	0
+SQL Server	0
+СУБД	0
+Точность и внимательность к деталям	0
+Умение работать в коллективе	0
+Product owner в команду 'Daily Banking'	0
+MS Movie Maker	0
+Программист-разработчик / PHP-программист	0
+Разработчик C#	0
+Техническая поддержка	0
+Разработчик Java	0
+MS Visual C++	0
+Visual C++	0
+Visual Studio C#	0
+АСУ	0
+Технология производства	0
+Знание основ UI/UX	0
+Adobe After Effect	0
+Программист на React / Javascript (Frontend developer / Фронтенд разработчик)	0
+HTML-верстальщик	0
+Документооборот	0
+Парус	0
+MS Publisher	0
+Менеджер проектов внедрения ПО (автоматизация банков и финансовых компаний)	0
+Руководитель проекта/Методолог-Консультант (1С)	0
+соблюдение сроков	0
+организованность	0
+Аналитический склад ума	0
+Настройка сетевых подключений	0
+Заместитель технического директора / CTO	0
+Frontend-разработчик (Verticals)	0
+Проектный менеджер / Project manager (web services)	0
+Менеджер проектов (анализ и автоматизация отчетности)	0
+nunjucks	0
+Smarty	0
+Планирование карьеры	0
+Product Owner	0
+Аналитик (группы специального программного обеспечения)	0
+Инженер-программист	0
+Ведущий разработчик/ архитектор 1С	0
+Серверное программирование	0
+Организация учебного процесса	0
+Дистанционное обучение	0
+Инженер по информационным технологиям	0
+Разработчик C# / C++/ C (Москва)	0
+Опрятность	0
+Системный аналитик/Эксперт (транспорт, логистика)	0
+Таргетинг	0
+Социальные сети	0
+Проектировщик пользовательских интерфейсов UI/UX	0
+Расстановка приоритетов	0
+3D Max	0
+Autodesk Maya	0
+Blender 3D	0
+ZBrush	0
+Cinema 4D	0
+3D	0
+3D Моделирование	0
+3D-графика	0
+Vuex	0
+Подбор персонала	0
+Телефонные переговоры	0
+Рекрутмент	0
+IT Recruitment	0
+Adobe Dreamweaver	0
+Back-end программист (Junior)	0
+Системный аналитик в Отдел разработки систем финансового мониторинга	0
+Redmine	0
+Продакт-менеджер/Менеджер продукта BI	0
+UX исследователь	0
+Ведение переписки	0
+bitrix	0
+Google Docs	0
+Поисковые системы	0
+Верстальщик сайтов	0
+Дизайнер интерфейсов	0
+Руководитель проектного офиса	0
+Junior Frontend Developer	0
+Веб-программист	0
+Project Expert	0
+modx	0
+промышленные контроллеры	0
+Языки программирования	0
+Elasticsearch	0
+tilda	0
+aiohttp	0
+Python разработчик	0
+1С: Предприятие: Розница	0
+БП3	0
+разработка SPA приложений	0
+	0
+laravel	0
+php7	0
+Управление продуктом	0
+Разработка нового продукта	0
+Запуск новых продуктов	0
+Управление командой	0
+Project Manager (IT сфера)	0
+Bitrix	0
+WEB	0
+Битрикс	0
+Bitrix framework	0
+BPM	0
+Senior Data Scientist	0
+IAR	0
+P-CAD	0
+Altium Designer	0
+Solid Works	0
+нормативно-техническая документация	0
+Руководитель проектов разработки (проекты хранилищ (DWH) и аналитики (BI))	0
+Менеджер процесса	0
+MySQL GUI Tools	0
+AWS	0
+Программист VBA/VB	0
+Codegniter	0
+Front-end разработчик (ReactJs)	0
+IOS Developer	0
+Программист 1С:ЗУП (Заработная плата и управление персоналом)	0
+ASP.NET Core	0
+Проектирование модулей информационных систем	0
+Проектирование структур данных	0
+Financial modeling	0
+Financial engineer	0
+Quant	0
+Programming	0
+Mathematical Programming	0
+Quantitative finance	0
+Financial data science	0
+ElasticSearch	0
+хостинг-сервисы	0
+Middle+ JS (React) developer/ разработчик	0
+интеграция с сайтом	0
+Администрирование сетевого оборудования	0
+Банк-клиент	0
+Frontend Developer	0
+Разработчик Big Data	0
+Преподаватель по предмету Дизайн продукта (юзабилити)	0
+Ведущий инженер-программист	0
+Flow js	0
+Mobx	0
+Аналитика	0
+Drupal API	0
+Системный аналитик (Платформа Услуг)	0
+TFS	0
+QlikView/Sense разработчик (задачи HR департамента)	0
+Golang	0
+1С:ERP	0
+SCALA	0
+Ansible	0
+Prometheus	0
+Grafana	0
+ELK	0
+Logstash	0
+Kibana	0
+Мониторинг	0
+Debian	0
+Jasmin	0
+js es5	0
+typescript	0
+Составление бизнес-плана	0
+Мотивация	0
+Java Developer (SberDevices)	0
+UX Аналитик	0
+Go	0
+Эксперт по цифровым системам	0
+Frontend разработчик JS React	0
+Taratntool	0
+ClickHouse	0
+Adobe XD	0
+Типографика	0
+Java Developer with Camunda BPM	0
+Эксперт по защите информации (сети, пентест)	0
+Системный подход	0
+Подбор и заказ ЗИП оборудования	0
+Программирование ПЛК	0
+Преподаватель/программист	0
+Тайм-менеджмент	0
+QA / Специалист по тестированию (web)	0
+Разработчик C# (Dynamics 365)	0
+Разработчик C# (fullstack)	0
+JBoss	0
+Mercurial	0
+Программист 1с	0
+Oracle Pl/SQL	0
+Урегулирование конфликтов	0
+1С-Рарус	0
+Java developer	0
+Microsoft Access	0
+Организация совещаний	0
+фронтенд	0
+Frontend	0
+Memcached	0
+Разработчик Oracle/ Delphi	0
+Java Developer	0
+Разработчик 1С	0
+SAP PM консультант	0
+Ведущий веб-дизайнер	0
+VSTS	0
+.NET C#	0
+Управление процессами	0
+C# .NET	0
+Firestore	0
+Turbo Pascal	0
+web	0
+Team lead Java (Full stack)	0
+MSVC Toolchain	0
+AOSP	0
+VirtualBox	0
+Начинающий ABAP разработчик	0
+Sphinx	0
+JAX-RS	0
+Электронный документооборот	0
+1С: Управление персоналом	0
+разработка 1С	0
+аналитик	0
+разработчик	0
+1С:Бит.Финанс	0
+Бит.Финанс	0
+Аналитик 1С	0
+k8s	0
+iOS SDK	0
+Design Patterns	0
+PxSwift	0
+Realm	0
+Middle/Senior PHP-разработчик	0
+1С-программист	0
+Разработка продукта	0
+.NET Core	0
+Go-разработчик	0
+Ruby On Rails	0
+руководство командой разработчиков	0
+Teamleading	0
+Product Management	0
+Product Marketing	0
+Бизнес-планирование	0
+ASP.NET MVC	0
+Разработчик	0
+Инженер технической поддержки (улица Бельская)	0
+Frontend-разработчик (React, Redux)	0
+Разработчик микросервисных решений (1С)	0
+Senior/ Middle .NET Developer	0
+Senior-developer (PHP, Go)	0
+Технико-экономическое обоснование проектов	0
+Проекты ПО	0
+ИТ-разработка	0
+NPV	0
+Старший руководитель проектов Центра внедрения и сопровождения (банковское ПО)	0
+Публичные выступления	0
+Middle Front-end разработчик	0
+Fullstack разработчик	0
+Ведущий разработчик/Разработчик 1С	0
+Развитие веб-сайта	0
+Инженер-программист УИТ (п. Омсукчан , Магаданская область)	0
+Drupal developer	0
+PMBOK	0
+PMI	0
+Senior PHP developer (PHP разработчик)	0
+Ведущий разработчик SAP BO	0
+Специалист поддержки и развития MES-систем	0
+J2EE	0
+Senior Azure DevOps Engineer	0
+Младший разработчик C#	0
+Vue JS	0
+Опыт в ОМС	0
+Apex	0
+Управление бизнес процессами	0
+контроль IT подразделений	0
+Ведущий специалист по поддержке рабочих мест [id21101]	0
+Инженер-программист 1С	0
+Руководитель управления сопровождения 1С	0
+Asyncio	0
+структурированность	0
+ITIL	0
+Программист/Стажер 1С	0
+Программист 1С-Битрикс	0
+QA Lead\Руководитель команды тестирования	0
+Тренинги	0
+Golang разработчик видеотрансляций	0
+Product Owner / Project Manager	0
+Контент-менеджер	0
+Системный администратор	0
+Leadership Skills	0
+Teambuilding	0
+IT рекрутер	0
+Управление производством	0
+Производственное планирование	0
+ScreenFlow	0
+Microsoft Visual Studio	0
+GitHub	0
+Web-контент менеджер / Web-мастер	0
+Google API	0
+MVC/MVVM/MVP	0
+JS-фреймворк	0
+кроссбраузерная адаптивная верстка	0
+Руководитель проекта (ИТ)	0
+Tarantool	0
+Стажер программист 1С	0
+QA Engineer	0
+Бизнес-архитектор	0
+Unix Shell Scripts	0
+Shell Scripting	0
+Hadoop	0
+Веб-разработчик (PHP full-stack) / middle PHP / Javascript / MySQL / CSS / HTML	0
+JSP	0
+Java Servlets	0
+Немецкий язык	0
+amoCRM	0
+Торговлей  1С: Управление Производственным Предприятием	0
+1С:Специалист	0
+1С Специалист-консультант	0
+figma	0
+sketch	0
+Senior Developer PHP/Разработчик PHP	0
+Инженер АСУТП	0
+Контроль исполнения  решений	0
+Разработчик Python/PHP	0
+Руководитель проекта 1С	0
+IT Project Manager	0
+Анализ рынка	0
+BPWin	0
+Design	0
+UX/UI designer Сбербанк	0
+React Frontend Developer	0
+SaaS	0
+IT recruiter (HR-менеджер)	0
+CentOS	0
+MS Project Expert	0
+Adobe Flash	0
+Старший менеджер Управления по методологии и контролю проектной деятельности	0
+БЭМ	0
+Java team lead	0
+Выбор подрядных организаций	0
+Формирование бюджета	0
+Начальник отдела информационных технологий автоматизации и телекоммуникаций [id20170]	0
+WEB аналитика	0
+Планирование рекламных кампаний	0
+Node.js + Express	0
+Unit testing (Mocha, Chai)	0
+Junior-разработчик	0
+Разведка и добыча	0
+Нефтегаз	0
+Аналитик-консультант 1С:ERP	0
+Start-up  project	0
+DevOps	0
+Лидерство	0
+Проектирование	0
+Unity developer	0
+Программист-консультант 1С	0
+MS Paint	0
+Обучаемость	0
+Программист 1С (без разъездов)	0
+Управление рисками	0
+Управление бюджетом	0
+waterfall	0
+Логистика	0
+Консультант 1С	0
+RxJs	0
+React Native	0
+User Experience Design	0
+Enterprise системы	0
+Java - разработчик	0
+Middle	0
+Ведущий разработчик С++ распознавание образов	0
+высоконагруженный сервис	0
+План продвижения	0
+Продвижение бренда	0
+Web Forms	0
+WSDL	0
+ORM	0
+ИТ-аналитик	0
+Middle Python Developer	0
+Use Case Analysis	0
+Wordpress разработчик	0
+IoT	0
+Развитие бизнеса	0
+QlikView	0
+QlikSense	0
+ETL	0
+JavaSript	0
+MobX	0
+Pre-sale инженер	0
+Фотография	0
+Senior Frontend-разработчик	0
+Ведущий инженер-разработчик	0
+Bootsrap	0
+React.JS	0
+Разработчик 1С/Программист 1С	0
+AllFusion ERwin Data Modeler	0
+GIMP	0
+Product Development	0
+Business English	0
+Лидогенерация	0
+Project Manager	0
+Web-разработка	0
+Lead generation	0
+Digital Marketing	0
+Сквозная аналитика	0
+Web development	0
+Oracle Siebel CRM	0
+Android разработчик/ Android developer	0
+Бизнес-аналитик	0
+Младший php-разработчик	0
+Senior Front-end Developer (React)	0
+Дизайнер UX / UI	0
+Техническое обслуживание	0
+Java программист	0
+Поиск и подбор помещения	0
+scorm	0
+webtutor	0
+ispring	0
+онлайн обучение	0
+Корпоративная культура	0
+Управленческий учет	0
+Стажер web-разработчик	0
+Управленческая отчетность	0
+TOGAF	0
+системный архитектор	0
+Архитектор	0
+Groovy	0
+Программист PHP Symfony	0
+Программист Python	0
+Directum	0
+VB	0
+Программист-разработчик	0
+Ведущий системный аналитик	0
+Ведущий инженер-программист (комплексы системы управления и связи)	0
+Программист C/C++	0
+PHP Developer	0
+Начинающий iOS-разработчик	0
+PnL	0
+spring boot	0
+Engineering Manager	0
+Middle/senior фронтенд-разработчик	0
+Инженер-проектировщик АСУ ТП	0
+Web-программист	0
+Системный администратор (DevOps)	0
+Frontend Team Lead	0
+Опыт в IT	0
+Моделирование процессов	0
+Организация презентаций	0
+Отличное знание фреймворка Yii2	0
+Техник-программист/Специалист технической поддержки	0
+System Analyst / Business Analyst	0
+Складская логистика	0
+Инженер-робототехник	0
+Customer Service	0
+Account Management	0
+Negotiation skills	0
+Ведущий инженер по тестированию (фунциональное/интеграционное тестирование)	0
+Data JPA	0
+Senior UX - проектировщик	0
+Программист 1C ERP	0
+Backend-разработчик (php), junior+	0
+Ведущий программист 1С	0
+Уверенное знание языка С (Си)	0
+Oracle PL/SQL developer	0
+Проведение тендеров	0
+Frontend Developer (react.js)	0
+Программист 1С (бухгалтерия)	0
+Middle/senior C# разработчик	0
+JDBC	0
+ipsec	0
+PowerShell	0
+оформление документации	0
+Gamedev	0
+геймдев	0
+MS Axapta	0
+MS Dynamics AX	0
+AXAPTA	0
+VUE	0
+Next.js	0
+Контроль качества	0
+Специалист отдела развития	0
+Программист -разработчик IOS	0
+Специалист по сопровождению и тестированию ПО (HelpDesc)	0
+Senior PHP Developer/Веб-программист	0
+IT-архитектор	0
+Unity C# Developer (Прага, Чехия)	0
+Ведущий специалист по интеграции / SAP PO/PI	0
+Чтение электросхем	0
+Техническая документация	0
+Производство пусконаладочных работ	0
+Программист Python (middle)	0
+Ведущий Java разработчик	0
+Автоматизация процессов	0
+Power BI	0
+Анализ финансовых показателей	0
+Подбор производственного персонала	0
+Программист ПЛИС	0
+Usability	0
+Atacama	0
+Informatica	0
+Data quality	0
+Pentaho	0
+ES6+	0
+microservices	0
+Умение принимать решения	0
+Olap (online analytical processing)	0
+Инженер-программист микроконтроллеров	0
+Web-дизайнер / Графический дизайнер	0
+B2B	0
+ITSM	0
+SAP	0
+Написание текстов	0
+PR	0
+Анализ PR стратегии конкурентов	0
+Наличие контактов с журналистами	0
+Написание статей	0
+Mathcad	0
+REST API	0
+Jest	0
+Data Science	0
+JAVA - разработчик	0
+Транспортная логистика	0
+ReactJs	0
+front-end	0
+RESTful API	0
+Kong	0
+WebPack	0
+Packages	0
+Спортивный аналитик (букмекер-лайвист)	0
+Xcode	0
+Разработчик JavaScript (React, м.Добрынинская)	0
+Rational Unified Process	0
+Gitlab CI	0
+Team lead	0
+Hue	0
+Impala	0
+Hive	0
+Kafka	0
+Spark  SQL	0
+hbase	0
+Mapreduce	0
+Data Lake	0
+Преподаватель	0
+Разработчик С++/Qt	0
+Программист C/С++	0
+Ведение документации	0
+ML	0
+Spark  SQL	0
+Собеседование	0
+Ведущий инженер-схемотехник (медицинская техника)	0
+GameDev	0
+Programmer	0
+Разработка компьютерных Игр	0
+Product owner (Цифровая платформа)	0
+Web-программист / PHP программист	0
+IT Recruiter/IT Рекрутер	0
+HTML 5	0
+Camunda	0
+OSCP	0
+penetration test	0
+Mixed-Signal Design	0
+Analog Design	0
+Схемотехника	0
+Cadence Virtuoso	0
+Микроэлектроника	0
+Keysight ADS	0
+Java-разработчик (по разработке решений Service Desk)	0
+С# разработчик (back-end)	0
+Qt Mode	0
+GUI	0
+QtQuick	0
+QML	0
+Ведущий разработчик C#	0
+Room Service	0
+IDE Android Studio	0
+SWIFT	0
+1С управление холдингом	0
+Senior Frontend Developer (React)	0
+Программист С#	0
+Программист 1С 8.3.	0
+postgis	0
+Старший разработчик frontend, Web	0
+разработка пользовательских интерфейсов	0
+ASP.MVC	0
+SAP ERP	0
+ABAP	0
+WebTutor	0
+XAML	0
+Jquery UI	0
+Разработчик Delphi\SQL в Дирекцию информационных технологий	0
+Руководитель направления (DevOps, ЦК Фронтальные системы)	0
+Разработчик Microsoft SQL/ DBA-архитектор	0
+Siemens NX	0
+Solid Edge	0
+Cimco	0
+Программирование станков ЧПУ	0
+Проектирование технологической оснастки	0
+производство	0
+Кадровое делопроизводство	0
+Java Full Stack разработчик	0
+Бюджетирование	0
+Middle Data Engineer	0
+Oracle 11G	0
+JavaScript разработчик	0
+Руководитель UX лаборатории (Stream)	0
+Разработчик Bitrix24	0
+Senior Frontend Developer (Angular 7)	0
+Business Analyst in BSS Solution Delivery	0
+Front End	0
+Руководитель проекта, Project manager, DWH, хранилище данных, Внедрение ПО	0
+Time management	0
+Аналитические способности	0
+Openshift	0
+Cassandra	0
+Программист С++, прикладное программное обеспечение	0
+Главный программист	0
+Учитель информатики	0
+Lucene	0
+ANTLR	0
+OSGi	0
+Консультант SAP BW	0
+Team Lead - Разработчик JS	0
+PHP dev (Symfony)	0
+AJAX/CORS	0
+Руководитель проектов 1С (УПП)	0
+SAP Business Objects	0
+SAP BI	0
+GitLab	0
+IDEF	0
+jira	0
+Trac	0
+Помощник программиста	0
+Программист АСУ ТП	0
+Организация мероприятий	0
+Business Analysis	0
+Selenium	0
+selenide	0
+cucumber	0
+soapui	0
+postman	0
+golang	0
+Senior developer C#	0
+Мониторинг рынка	0
+Прямой поиск	0
+Прогнозирование	0
+Разработчик React / React-разработчик	0
+Инженер по внедрению программного обеспечения	0
+Слесарь-наладчик АСУ	0
+Ms Exchange Server	0
+Оптимизация запросов	0
+Программист SQL	0
+Ведущий разработчик C# (team lead)	0
+Web - дизайнер	0
+Тестировщик / QA engineer, автотестирование	0
+Opera	0
+Swing	0
+Multithread Programming	0
+Руководитель IT проекта Ростехнадзор/ЖКХ	0
+Аналитик CJE (Боты в голосе и тексте.IVR экосистемы)	0
+Программист 1С ERP / Консультант-аналитик 1С ERP	0
+Хранилище данных	0
+ХД	0
+Ad-hoc запросы	0
+Java-разработчик команды дебетовых карт и транзакционных продуктов	0
+Программист C#	0
+Самообучаемость	0
+Frontend разработчик (React/Redux)/Javascript developer	0
+IOS разработчик (Swift)	0
+Младший разработчик	0
+junior-developer	0
+Разработка CMS	0
+System Integration	0
+Bug Tracking Systems	0
+Backend PHP developer	0
+Руководитель проекта (телемедицина)	0
+Product Owner (Cloud Communications - Telephony)	0
+Course Lab	0
+Разработчик .NET C# SQL (Middle)	0
+Middle javascript разработчик (id11053)	0
+OpenCV	0
+Artificial neural network	0
+Junior SQL-аналитик / Программист SQL	0
+Flask	0
+Реляционные БД	0
+Сore Java	0
+В2С	0
+Frontend-разработчик (Vue)	0
+Product Owner (Команда DS)	0
+Менеджер по сопровождению проектов	0
+Kanban	0
+исполнение поручений руководителя	0
+Object Pascal/Delphi	0
+VBAMS	0
+написание аналитических текстов	0
+Эксперт-разработчик С++	0
+Стажер-программист 1С	0
+Ведущий аналитик	0
+Adobe	0
+Material Design	0
+Human Design	0
+Комьюнити-менеджер (SMM)	0
+Аналитик данных (интеллектуальная система управления)	0
+Проектировщик систем регламентированного учета предприятий в 1С ERP	0
+Программист 1С (производственное планирование)	0
+Microsoft IIS	0
+Разработчик баз данных	0
+Go (Golang) разработчик	0
+Инициативность	0
+Работа с данным	0
+Банковское ПО	0
+Enterprise	0
+PL/pgSQL	0
+SAP SD	0
+SAP FI	0
+SAP PP	0
+МСФО	0
+QA engineer Billing / Инженер по тестированию ПО (Billing)	0
+Анализ конкурентной среды	0
+DevOps Engineer/Linux (м. Улица 1905 года)	0
+People Management	0
+Java/Kotlin-разработчик (BPM)	0
+Контроль исправности оборудования	0
+Djem	0
+Animate cc/Google Web Designer	0
+Xenu	0
+GA	0
+ЯМетрика	0
+Pingdom Tools	0
+Pagespeed	0
+ABAP-разработчик	0
+PHP developer	0
+Developer (Salesforce)	0
+Фулл-стек разработчик	0
+Analytical skills	0
+Presentation skills	0
+System Analysis	0
+Регресионное тестирование	0
+Customer Journey Map	0
+Анализ поведения пользователей	0
+User flow map	0
+Senior C++ developer	0
+DevOps Engineer (Analytics)	0
+Разработчик Axapta (DAX/ AX/ X++)	0
+UNIX разработчик	0
+Маркетинг услуг	0
+Backend Node JS разработчик	0
+Программист-тестировщик (веб-производительность)	0
+город Чебоксары	0
+Стажер Frontend	0
+U-Boot	0
+ARM	0
+Младший тестировщик ПО (функциональное тестирование)	0
+Веб-дизайнер/ графический дизайнер	0
+Data scientist	0
+Руководитель службы Pega разработки	0
+jest	0
+Руководитель проектов	0
+3D-моделлер/3d аниматор	0
+PHP Backend разработчик	0
+Frontend разработчик (JS, React, Redux, TypeScript). Проект "ДБО"	0
+swift	0
+Unity3D	0
+Программист-математик С++	0
+Ведущий инженер по автоматизации тестирования / Senior Test Automation Engineer	0
+Старший Java-разработчик	0
+Программист С# (Санкт-Петербург)	0
+Customer Support	0
+Sales Skills	0
+Customer Relationship Management	0
+Customer Account Monitoring	0
+REACT	0
+kotlin	0
+Программист отдела разработки программного обеспечения	0
+Ведущий Frontend разработчик (JavaScript)	0
+Java Team Lead (RCV)	0
+Руководитель группы по исключению причин ошибок автоматического списания в системе SAP	0
+MS SharePoint	0
+Разработчик Sharepoint Online	0
+Senior backend developer ( Go + Node.js)	0
+Экономический анализ	0
+SAP CRM	0
+IT	0
+Ms Expert	0
+Visual Basic	0
+Программист 1С сектора учетных информационных систем	0
+Android Developer (Kotlin)	0
+Apache Kafka	0
+Hyper-V	0
+MS Exchange	0
+Cisco	0
+Настройка DNS	0
+Разработчик 1С (Тверь)	0
+Главный специалист / Разработчик ПО	0
+Разработчик Java (Alfresco)	0
+Разработчик java (Hadoop)	0
+Разработка	0
+React JS	0
+Веб-разработчик	0
+Angular	0
+Программист 1С (г. Подольск)	0
+Инженер АСДУ (Тверская обл., г. Бежецк)	0
+KISS	0
+hadoop	0
+Инженер АСУ ТП	0
+product marketing management	0
+международные рынки	0
+маркетинговая аналитика	0
+Front-end Developer (React.js)	0
+QA Backend Engineer	0
+Бухгалтерская отчетность	0
+Руководитель службы сопровождения продуктов Colvir	0
+Финансовый инженер (Алгоритмическая торговля)	0
+Начинающий web-разработчик(стажёр)	0
+Руководитель проекта/Ведущий аналитик по данным (CDO)	0
+Альфа-Авто	0
+Adobe Ps	0
+Sketch/Figma	0
+Zeplin	0
+MaterialUI	0
+Ведущий программист 1C / Ведущий разработчик 1С	0
+Middle Python-разработчик	0
+stimulsoft	0
+winDraw	0
+Оптимизация кода	0
+1С: Управление холдингом	0
+Разработчик Backend PHP/GO (Юнит Safedeal)	0
+SAP BW	0
+Претенциозная работа	0
+My SAP ERP	0
+SAP MM	0
+Materials Management	0
+Team Lead PHP Developer / Ведущий PHP разработчик	0
+Ведущий программист 1C	0
+Инженер-программист АСУ ТП/ведущий инженер АСУ ТП	0
+Разработчик WMS	0
+3D-моделлер в стоматологию	0
+php storm	0
+VBA Developer	0
+SCADA-разработчик	0
+Junior developer	0
+Angular2+	0
+NgRx	0
+DRY	0
+YAGNI	0
+Руководитель службы разработки ПО	0
+Junior Full Stack developer (PHP + JS)	0
+Аналитик-программист SQL	0
+asyncio	0
+pytest/unittest	0
+PHP-разработчик (удаленная работа)	0
+Quantitative researcher	0
+Аудит безопасности	0
+Системное администрирование	0
+пентестинг	0
+Information Security	0
+IT Compliance	0
+Senior System Analyst (Relocation to Bangkok)	0
+automation testing	0
+Ведущий разработчик Oracle	0
+Программист Delphi	0
+Data Engineer отдела аудита информационных технологий (Python, SQL, Oracle)	0
+Младший специалист по внедрению IT продуктов	0
+Программист C#/ASP.NET	0
+Программист-разработчик 1С	0
+Junior front-end разработчик	0
+MATLAB	0
+R	0
+Системный архитектор	0
+Программист 1С/ведущий программист 1 С	0
+Программист Full-stack	0
+PHP-программист (senior)	0
+Ведущий php-разработчик (операторский интерфейс)	0
+Руководитель группы мобильной разработки	0
+Ведущий инженер-программист 1С	0
+ArchiCAD	0
+Архитектура	0
+Ведущий инженер- программист 1С	0
+JHipster	0
+Neflix	0
+Amazon Web Services	0
+Senior C++ Developer	0
+Senior Python разработчик	0
+Node.js developer	0
+Написание пресс-релизов	0
+Написание рекламных статей	0
+Ведение групп в социальных сетях	0
+Продвижение объекта	0
+Ведущий программист / Программист Java	0
+Автоматизация документооборота	0
+ЭДО	0
+Электронный архив	0
+Navision	0
+EDI	0
+C Developer / Программист С (группа Россия / группа Европа)	0
+Специалист по тестированию/QA Specialist 1С:Fresh	0
+Go (Golang)	0
+сетевые протоколы	0
+SQL/NoSQL	0
+kanban	0
+Руководитель отдела 1С-разработки	0
+Программист Bitrix24	0
+Программист PHP / 1C-Bitrix	0
+Ответственное хранение	0
+WebDynpro	0
+iDocs	0
+Middle Frontend - разработчик	0
+Frontend developer (react)	0
+Ведущий специалист по тестированию (Big Data)	0
+Разработчик JavaScript (React), м. Кутузовская	0
+Разработчик php (Битрикс)	0
+DevOps engineer	0
+Разработчик Blockchain	0
+OpenShift	0
+QA Android Engineer	0
+Java-developer в команду Compliance	0
+Программист С++ (мобильные игры)	0
+Unreal Engine	0
+BluePrints	0
+Realtime	0
+CG	0
+Frontend developer	0
+Веб-мастер	0
+Web-тестировщик (QA engineer)	0
+База данных: Olap	0
+Программист-стажер	0
+Вычислительная математика	0
+Линейная алгебра	0
+Параллельные вычисления	0
+Оптимизация алгоритмов	0
+Вычислительная геометрия	0
+Инженер-проектировщик Oracle	0
+Sas	0
+Драйверы	0
+Buildroot	0
+Busybox	0
+toolchain	0
+Chromium Embedded Framework	0
+Встраиваемые решения	0
+STM32	0
+Atmel	0
+Pthreads	0
+PowerApps	0
+Sharepoint Online	0
+Главный специалист (администрирование корпоративной системы управления проектами)	0
+angular	0
+mssql	0
+WEB API	0
+Full stack разработчик	0
+Программист .net	0
+Старший программист 1С	0
+Программист 1С: Бухгалтерия 8 (версия Корп)	0
+Ведущий разработчик 1С (ERP)	0
+Алгоритмы	0
+Junior frontend javascript developer (Vue.JS)	0
+Python/Django разработчик / Python/Django developer (удаленно/remote)	0
+Junior PHP Разработчик	0
+Оперативное планирование	0
+CDO	0
+Продуктовый дизайнер	0
+Front-end developer	0
+Java-программист	0
+Multithreading	0
+Программист - стажер 1С	0
+C# ASP.NET MVC/WebAPI ASP.NET Core MVC/WebAPI JavaScript JQuery Developer	0
+Юрисконсульт	0
+React developer	0
+Директор IT департамента	0
+WMS	0
+power BI	0
+Специалист по информационным технологиям	0
+Технический руководитель PHP веб разработка ( с возможностью удаленной работы)	0
+PMP	0
+IPMA	0
+BI	0
+Math	0
+Mathematical Statistics	0
+Algorithm	0
+Spring Boot	0
+оптимизация производительности	0
+Тестировщик программного обеспечения/QA engineer	0
+Лидер разработки	0
+1C Bitrix	0
+клиент-сервер	0
+HTML-верстальщик (web программист)	0
+Тестировщик	0
+Ведущий инженер по информационным технологиям и средствам связи	0
+Директор проектов (Дивизион Массовая персонализация)	0
+Программист-консультант 1C	0
+PHP-программист/WEB-программист	0
+Ext JS	0
+IT HR Manager	0
+Программист (PHP / WEB)	0
+Специалист по сопровождению и тестированию программного обеспечения	0
+Junior PHP-разработчик	0
+АБС	0
+Unisab	0
+Developer	0
+Scrum Leader / Agile Evangelist	0
+PHP Developer (Laravel)	0
+Программист С	0
+Backend - разработчик	0
+Схемотехника электронного оборудования	0
+Golang Developer	0
+DevOps Team lead / Руководитель команды системных инженеров	0
+Vanilla.js	0
+*NIX	0
+Delivery	0
+cloud	0
+Pixel Perfect	0
+GraphQL	0
+Разработчик мобильных приложений	0
+Backend разработчик (Java)	0
+symfony3	0
+SAP PS	0
+SAP PPM	0
+Oracle Primavera	0
+ES6/ES7	0
+Программист 1С: ERP	0
+gRPC	0
+Фулстек разработчик / Fullstack developer PHP/JavaScript (удаленно/remote)	0
+Разработчик Oracle	0
+Подготовка отчетов	0
+Senior back-end developer Kotlin	0
+Автомобильные перевозки	0
+Frontend-разработчик (ReactJS, TypeScript, Redux)	0
+DevOps Engineer (USA)	0
+Numpy	0
+Pandas	0
+Jupyter Notebook	0
+Clickhouse	0
+Jira	0
+GXT	0
+iQuery	0
+Confluence	0
+Мало опыта	0
+react native	0
+Разработчик мобильных приложений (iOS)	0
+Специалист по тестированию	0
+LAN	0
+Mathematical Analysis	0
+Mathematical Modeling	0
+Программист C/С++ под Linux	0
+кроссбраузерное тестирование	0
+bitrix- администрирование	0
+Специалист по тестированию ПО	0
+RestFull	0
+ARIS	0
+Инженер по автоматизации тестирования/Automation QA (Java)	0
+Frontend Программист / Developer (React native/Swift)	0
+DHCP	0
+Microsoft Office 2013, 2016 (Word, Excel, Outlook, PowerPoint, Access)	0
+Windows 10 Pro	0
+Внутренние коммуникации	0
+Web-мастер	0
+Junior QA Engineer / Младший специалист по тестированию	0
+Ведущий программист Python/Django	0
+Управление эффективностью	0
+Spark	0
+Babel	0
+Гибкость	0
+JVM	0
+1 С Программист	0
+Terrasoft CRM	0
+Senior DevOps	0
+UX design	0
+Senior Java Developer	0
+Senior С++ Developer/Разработчик С++	0
+Программист 1 С	0
+Middle (C#, ASP.NET MVC, SQL) developer	0
+.NET developer	0
+Программист Delphi/SQL в Департамент Финансовые рынки	0
+Fullstack Программист (С#)	0
+Windows	0
+CMake	0
+Тинькофф	0
+FastReport	0
+автоматизированное тестирование	0
+drupal	0
+Технический руководитель проектов	0
+Autodesk Revit	0
+BIM	0
+BIM координатор	0
+rest api	0
+C++ Developer (mobile)	0
+Разработчик BI	0
+Fullstack-разработчик	0
+Backend-разработчик (.NET Core, NodeJS)	0
+reactjs	0
+CTO	0
+Head R&D	0
+Руководитель разработки	0
+Разработчик баз данных / Database developer	0
+Python backend developer/Application APP IN THE AIR	0
+Middle С++ software developer (PDF products development group)	0
+Ведущий разработчик 1С в АТОЛ Онлайн	0
+Ведущий разработчик битрикс 24	0
+Техническое задание	0
+Разработка программной документации	0
+Внедрение программных продуктов	0
+Фронтенд-разработчик (React \ Redux)	0
+Data Scientist (NLP, Graph)	0
+NativeJS	0
+Android\ iOS Developer	0
+1С:Предприятие 8	0
+СКД	0
+1С:ЗУП	0
+Доработки типового функционала	0
+Tensorflow	0
+PyTorch	0
+Data Engineer in Oil & Gas	0
+Full Stack/Back-end разработчик	0
+Ведущий разработчик Oracle (Senior Oracle Developer)	0
+C# программист (middle/senior)	0
+grpc	0
+Технический консультант / эксперт по ИТ-инфраструктуре	0
+JAVA / Python	0
+PDF	0
+Разработчик Node.js	0
+Full Stack разработчик C#	0
+клиринг	0
+Психология	0
+С++ Разработчик	0
+Программист 1C (Системный аналитик)	0
+SAP PP/QM	0
+SAP QM	0
+Разработчик C# (backend/Full stack C# developer)	0
+Инженер-программист АОВ АСУ ТП	0
+TDD	0
+WebGL	0
+SSAS	0
+SSIS	0
+SSRS	0
+MS BI	0
+Product owner (телеком)	0
+Web-программист - удаленно	0
+Middle iOS разработчик	0
+Руководитель технической поддержки HelpDesk	0
+Junior-разработчик (RPA, Java Script)	0
+Определение взаимосвязи системы управленческого и бухгалтерского учета	0
+Руководство проектом внедрения и контроля работы продуктов 1С	0
+Автоматизация управленческой отчетности	0
+Php разработчик Laravel	0
+Python3	0
+Статистика	0
+Бизнес-аналитик (IT, автоматизация)	0
+Развитие бренда	0
+Разработка стратегии продвижения продуктов	0
+Balsamiq Mockups	0
+Консультант 1С ЗУП [id16087]	0
+1С ЗУП	0
+----------------
+----------------
+----------------
+Разработчик Android приложений	0
+C# .Net Developer (Middle)	0
+Senior System Analyst (Relocation to Bangkok)	0
+Python разработчик	0
+React Frontend Developer	0
+JavaScript Developer (React, React Native)	0
+Senior C++ Developer	0
+Специалист по обработке данных	0
+Стажёр Web-программист	0
+Дизайнер/Администратор сайта	0
+Web-мастер	0
+Специалист-Дизайнер/Программист	0
+Помощник веб-разработчика	0
+Программист-стажер 1С	0
+Специалист технической поддержки	0
+Преподаватель/программист	0
+Юрисконсульт	0
+Преподаватель робототехники	0
+Веб-разработчик	0
+Веб-дизайнер	0
+Специалист по IT	0
+Менеджер группы эксплуатации	0
+Специалист технической поддержки клиентов (helpdesk)	0
+Стажер веб-программист 1С-Битрикс	0
+Младший программист SQL (Junior)	0
+SEO-специалист (внедренец, аналитик)	0
+Разработчик (JuniorDeveloper)	0
+Junior Web-designer (Младший веб-дизайнер UI/UX)	0
+Программист в веб студию	0
+Junior программист	0
+Инженер-дизайнер	0
+Сервис-инженер 1С (Стажер/Junior/Программист)	0
+Технический писатель/Специалист по проектной и технической документации	0
+Инженер АСУТП	0
+Преподаватель по робототехнике	0
+Инженер-программист С#; .NET(junior)	0
+Стажер-программист РНР	0
+HTML-верстальщик / помощник SEO-оптимизатора	0
+Стажер программист 1С	0
+QA-инженер	0
+Стажер-программист 1С	0
+Младший аналитик	0
+Ведущий инженер-программист 1С (Центр)	0
+Web-дизайнер	0
+Техник-программист/Специалист технической поддержки	0
+Преподаватель (программирование / информационные технологии)	0
+Младший тестировщик ПО (функциональное тестирование)	0
+HTML-верстальщик (web программист)	0
+Инженер технической поддержки (улица Бельская)	0
+SEO специалист	0
+Ведущий специалист отдела сервиса	0
+Инженер по информационным технологиям	0
+Инженер-программист	0
+Программист Python	0
+Специалист по навигации	0
+Программист 1С	0
+Администратор 1С	0
+Программист (PHP / WEB)	0
+Программист-консультант 1C 8.3 Зарплата и управление персоналом	0
+Веб-мастер/php-программист (техническая поддержка)	0
+Аналитик бизнес-процессов SQL JS	0
+Web-разработчик / программист	0
+Инженер-проектировщик АСУ ТП	0
+Программист Python (middle)	0
+Программист PHP	0
+Junior frontend javascript developer (Vue.JS)	0
+Frontend-разработчик	0
+Начальник отдела информационных технологий	0
+Junior PHP developer / PHP разработчик	0
+Web-разработчик	0
+Web-программист - удаленно	0
+Ведущий инженер-программист (комплексы системы управления и связи)	0
+Тестировщик / QA	0
+Web-дизайнер/UI/UX дизайнер	0
+Специалист по внедрению и сопровождению компьютерных программ	0
+Web-контент менеджер / Web-мастер	0
+Специалист поддержки 1С	0
+Тестировщик / QA engineer, автотестирование	0
+Программист PHP (Symfony)	0
+Web-дизайнер/разработчик на Tilda	0
+SEO-специалист (SEO-оптимизатор)	0
+Стажер по автоматизированному тестированию	0
+Менеджер проектов в вебстудию	0
+SEO-специалист (интернет-маркетолог)	0
+Веб-программист	0
+Помощник менеджера интернет-проектов	0
+Сервисный инженер (ККМ, торговое оборудование)	0
+Ведущий инженер- программист 1С	0
+HTML-верстальщик	0
+Специалист/ведущий специалист (регистрация/ перерегистрация подвижного состава)	0
+Frontend разработчик	0
+Инженер-электронщик	0
+Слесарь-наладчик АСУ	0
+Junior Full Stack developer (PHP + JS)	0
+Junior Frontend Developer	0
+Тестировщик ПО	0
+Программист 1с	0
+Программист-тестировщик	0
+Инженер-проектировщик АСУ	0
+Руководитель проектов	0
+Верстальщик/Frontend-разработчик	0
+Frontend разработчик (ReactJS)	0
+Релиз-менеджер	0
+Специалист по внедрению и сопровождению ПО (инженер)	0
+Программист/стажер 1C	0
+Web-программист / PHP программист	0
+Программист 1С-Битрикс (Bitrix) на удаленную работу	0
+PHP bitrix developer middle	0
+Инженер по обслуживанию торгового оборудования	0
+Full-stack developer / Фулстэк разработчик	0
+Младший разработчик C#	0
+Frontend developer (junior/middle/senior)	0
+Front-end разработчик (JavaScript)	0
+Веб-разработчик PHP в интернет-магазин	0
+Системный администратор	0
+Программист 1C	0
+Программист-консультант 1C	0
+UX/UI Дизайнер	0
+PHP-разработчик / Битрикс-программист	0
+IOS программист (Swift)	0
+Аналитик-консультант 1С:ERP	0
+Специалист (Excel)	0
+Web-программист Битрикс	0
+Специалист по автоматизированному тестированию/Java QA automation engineer	0
+Front-end разработчик (Junior / Senior)	0
+Программист-тестировщик (производительность мобильных приложений)	0
+Инженер-программист АСУ ТП/ведущий инженер АСУ ТП	0
+Frontend / fullstack разработчик (JS, PHP)	0
+Верстка/Веб-разработчик (Битрикс)	0
+Программист -тестировщик (отдел автотестирования)	0
+Программист-разработчик / PHP-программист	0
+Тестировщик ПО / QA Engineer (Junior или Middle)	0
+Project Manager (IT сфера)	0
+Разработчик 1С/Программист 1С	0
+Frontend-разработчик (middle, senior)	0
+Программист JS/Python	0
+Frontend разработчик - ReactJS	0
+Junior Fronted Developer	0
+Программист VBA/VB	0
+Junior developer	0
+PHP программист	0
+PHP-разработчик	0
+Программист 1С-Битрикс	0
+Системный аналитик	0
+Помощник программиста 1С	0
+PHP-программист	0
+Программист 1С (Разработчик 1С)	0
+Программист C/С++	0
+Менеджер Web проектов	0
+Backend-разработчик (php), junior+	0
+Ведущий web-дизайнер	0
+Project Manager IT / Менеджер проектов	0
+Программист встраиваемых систем	0
+РНР Developer (1C Bitrix)	0
+Программист Yii	0
+Full Stack Web Разработчик	0
+IT recruiter (HR-менеджер)	0
+Программист 1 С	0
+Аналитик в Управление информационной безопасности (в Банк)	0
+Ведущий программист 1С	0
+Аналитик баз данных (SQL)	0
+Программист-стажер 1С (м.Коломенская)	0
+Стажер-программист (web/js/react) в Севастополе	0
+Консультант 1С	0
+Менеджер разработки интернет-проектов	0
+Руководитель отдела продаж	0
+Fullstack-разработчик (VueJS/Laravel)	0
+Web-программист	0
+Frontend-разработчик (ReactJS, TypeScript, Redux)	0
+Frontend-разработчик (React)	0
+Специалист по тестированию ПО	0
+Веб-программист в агентство маркетинга	0
+Frontend Developer	0
+QA Engineer/тестировщик	0
+Unity developer	0
+Web-программист (back-end)	0
+Разработчик 1С (Тверь)	0
+Программист С++	0
+Python developer	0
+Front-end Developer (JavaScript, React)/Разработчик Web-приложений	0
+Middle PHP developer (Laravel)	0
+Middle Frontend-разработчик	0
+Middle/Senior Java developer	0
+Программист PHP / 1C-Bitrix	0
+Программист 1С Middle	0
+Web-дизайнер UX/UI	0
+1С-программист	0
+Программист-консультант 1С	0
+Технический специалист инженерной сантехники	0
+Ведущий инженер по информационным технологиям и средствам связи	0
+Менеджер проектов web разработка	0
+Администратор проектов	0
+Junior Python Developer	0
+Middle Front-end разработчик	0
+Программист-тестировщик (веб-производительность)	0
+Инженер-программист 1С	0
+Программист web-разработчик (backend/frontend)	0
+Тестировщик Web/mobile	0
+Фулстек разработчик / Fullstack developer PHP/JavaScript (удаленно/remote)	0
+PHP программист (Full stack)	0
+Middle/Senior Web-designer (Веб-дизайнер UI/UX)	0
+Программист Delphi/SQL в Департамент Финансовые рынки	0
+Старший инженер-системотехник	0
+Программист 1С/Разработчик	0
+PHP разработчик	0
+Программист Delphi	0
+Ведущий инженер по автоматизации тестирования / Senior Test Automation Engineer	0
+Консультант 1С/Администратор 1С	0
+Angular 6+ разработчик	0
+Web developer	0
+Программист Java	0
+Middle PHP Developer (ПХП Разработчик)	0
+JavaScript разработчик	0
+Разработчик C#	0
+Программист C#	0
+Android Developer (Kotlin)	0
+Разработчик PHP Laravel (Middle)	0
+Программист С++, прикладное программное обеспечение	0
+Программист JS	0
+Full-stack разработчик	0
+Программист C/С++ под Linux	0
+Ведущий программист 1C	0
+Инженер по применению электронных компонентов и модулей	0
+Старший разработчик frontend, Web	0
+Консультант по внедрению 1С ERP (производственное предприятие)	0
+Ведущий Frontend разработчик (JavaScript)	0
+Веб-программист/web-программист (php, yii), удаленная работа	0
+Разработчик C++ (Computer vision / Machine Learning)	0
+Программист Делфи	0
+Middle Full stack разработчик PHP	0
+Разработчик Python/PHP	0
+Проектный менеджер / Project manager (web services)	0
+Java developer	0
+IOS разработчик	0
+Разработчик С++	0
+Java-разработчик	0
+Middle C# Developer ASP.NET MVC	0
+Программист С ++	0
+C# программист (middle/senior)	0
+Программист 1С (без разъездов)	0
+Project manager	0
+Программист PHP / 1С-Битрикс	0
+Frontend JavaScript разработчик	0
+Менеджер по сопровождению проектов	0
+Инженер-электрик (отдел систем управления и электрооборудования на ж/д и авторанспорте)	0
+Full stack developer (PHP, JavaScript)	0
+Android разработчик	0
+Администратор процессов разработки / scrum-мастер	0
+Support Engineer	0
+Программист С++ (DSP)	0
+Frontend разработчик (JavaScript / React)	0
+Программист 1С-Битрикс: Управление сайтом	0
+Full stack Web-программист	0
+PHP Developer (Laravel)	0
+Разработчик React \ Vue (junior\middle)	0
+Front-end разработчик	0
+Middle front-end developer (React)	0
+PHP backend developer	0
+Программист .Net (full-stack)	0
+Frontend разработчик (JavaScript, Vue.js)	0
+Web-программист Bitrix	0
+Программист/Стажер 1С	0
+Консультант-аналитик 1С	0
+Frontend-разработчик (Vue)	0
+Java Scrpt front (React)	0
+Программист системы 1 С	0
+Разработчик php (Битрикс)	0
+QA Automation Engineer	0
+Full stack developer (middle)	0
+Full stack разработчик	0
+Разработчик 1С	0
+Ведущий разработчик (PHP/Full stack)	0
+DevOps инженер	0
+Руководитель направления по автоматизации	0
+Программист Bitrix	0
+Разработчик С# / MS SQL (middle/senior)	0
+Программист ПЛИС	0
+Программист/разработчик (Javascript/HTML)	0
+Руководитель проектов 1С (УПП)	0
+Аналитик (группы специального программного обеспечения)	0
+Разработчик Python	0
+Разработчик SQL	0
+UI/UX дизайнер	0
+Frontend разработчик (React/Redux)/Javascript developer	0
+Системный архитектор инфраструктуры (Руководитель подразделения инфраструктуры)	0
+UX/UI designer Сбербанк	0
+Ведущий разработчик IOS	0
+Middle Python Developer	0
+PHP-разработчик (Senior)	0
+Frontend-разработчик (Web, JavaScript, React)	0
+Java-разработчик, backend	0
+Старший программист Java	0
+Разработчик мобильных приложений (iOS)	0
+Devops engineer	0
+Руководитель IT проектов / Project Manager	0
+PHP dev (Symfony)	0
+Front-end Developer (React.js)	0
+Senior PHP Developer	0
+Backend / Fullstack Developer (Node.js/React)	0
+UNIX разработчик	0
+ASP.NET Core(C#) Middle Developer	0
+Интеграционный аналитик (страхование)	0
+Консультант 1С ERP	0
+Middle Frontend разработчик (TypeScript, React)	0
+DevOps Engineer/Linux (м. Улица 1905 года)	0
+Руководитель команды разработки/ Team Leader	0
+Middle iOS разработчик	0
+Программист ASP.NET	0
+Аналитик	0
+Системный аналитик / Бизнес-аналитик	0
+Middle/senior фронтенд-разработчик	0
+Разработчик мобильных приложений	0
+Front-end разработчик (React)	0
+Python программист (Middle/Senior разработчик)	0
+Ведущий аналитик	0
+Ведущий программист Python/Django	0
+Senior frontend разработчик (React) в продуктовую команду	0
+ИТ-архитектор	0
+Руководитель интернет-проектов	0
+Senior ui/ux designer	0
+C# (.NET .NET Core) Senior / Middle developer	0
+Ведущий программист/Архитектор 1С (БП, ЗУП, ERP)	0
+Senior Developer Java	0
+Руководитель проекта/Методолог-Консультант (1С)	0
+Senior Web Developer	0
+Программист PHP Symfony	0
+Senior Frontend Developer (Angular 7)	0
+Java Developer	0
+Разработчик iOS и Android	0
+Ведущий разработчик С++ распознавание образов	0
+Руководитель отдела web-разработки	0
+Senior Front-end Developer (JavaScript, React)	0
+Backend С# разработчик (м. Арбатская)	0
+Ведущий разработчик (php/symfony)	0
+Senior back-end developer Kotlin	0
+Computer vision developer (Разработчик систем компьютерного зрения)	0
+Ведущий менеджер по продажам IT-решений	0
+Senior Frontend React Specialist	0
+Ведущий разработчик Java / Senior Java developer	0
+Android developer (Team lead)	0
+DevOps specialist	0
+Ведущий Frontend-разработчик / TechLead (м.Павелецкая/Добрынинская)	0
+Payments Integration Developer	0
+Трейдер	0
+Аналитики Разработчики Дата инженеры Руководители проекта - IT TEAM	0
+Ведущий программист Python (NLP, нейронные сети)	0
+Исполнительный директор (B2B-продажи через интернет)	0
+Руководитель проекта/функциональный архитектор 1С:ERP	0
+Junior Front-End Developer (Vue.JS)	0
+Junior PHP Разработчик	0
+Junior PHP developer	0
+Fullstack Developer (Wordpress)	0
+Front-end developer	0
+Senior C++ Developer (Algorithmic trading)	0
+Программист-стажер	0
+Помощник программиста	0
+Младший программист 1С	0
+Помощник SEO специалиста	0
+Программист - стажер 1С	0
+Стажер-разработчик под Android	0
+Программист-стажер PHP	0
+Начинающий iOS-разработчик	0
+Junior php-разработчик	0
+Программист (Р. Карелия г. Сегежа)	0
+Web - дизайнер	0
+Программист 1С/Стажер	0
+Специалист технической поддержки программ 1С (стажер)	0
+Web-дизайнер / Графический дизайнер	0
+Junior web developer	0
+Верстальщик	0
+Специалист по внедрению банковского программного обеспечения	0
+Автор по информационной безопасности	0
+Менеджер по продажам	0
+Монтажник СКС/систем видеонаблюдения	0
+Специалист отдела развития	0
+Junior PHP-программист	0
+Менеджер по продажам (со знанием английского языка)	0
+Младший программист-разработчик 1С (в офис)	0
+Junior front-end разработчик	0
+Junior-разработчик (RPA, Java Script)	0
+Специалист технической поддержки 1С	0
+Web-дизайнер/дизайнер	0
+Спортивный аналитик (букмекер-лайвист)	0
+Инженер-программист 1C	0
+Программист SQL	0
+Инженер-программист по сопровождению ПО МАптека	0
+Главный программист	0
+Frontend-разработчик (верстальщик)	0
+Программист баз данных	0
+Компьютерный мастер	0
+Программист отдела разработки программного обеспечения	0
+Инженер-программист (Консультант 1С)	0
+3D-моделлер в стоматологию	0
+Младший специалист по внедрению IT продуктов	0
+Ведущий специалист департамента информационных технологий	0
+Web-разработчик на WP	0
+Дизайнер интерфейсов / UX UI Дизайнер	0
+1 С Программист	0
+Веб-разработчик / PHP-программист	0
+Инженер-робототехник	0
+Программист АСУ ТП	0
+Веб-дизайнер/ графический дизайнер	0
+Junior PHP-разработчик	0
+Ведущий веб-дизайнер	0
+Программист - стажер станков с ЧПУ / Инженер - технолог по лазерной резке	0
+DevOps - инженер	0
+Начальник отдела программного обеспечения	0
+Автор по информатике	0
+Junior Front-End разработчик	0
+Специалист по внедрению информационных систем	0
+Программист 1С:ЗУП (Заработная плата и управление персоналом)	0
+Программист Битрикс / WEB-дизайнер	0
+Программист 1С:КА (Комплексная автоматизация)	0
+Middle Frontend разработчик (HTML / SCSS / ES6 / VUE)	0
+Junior SQL-аналитик / Программист SQL	0
+Автор по информационным технологиям	0
+Автор по программированию	0
+Специалист-консультант 1C (Бухгалтерия государственного учреждения)	0
+Младший программист-консультант 1С	0
+Php разработчик Laravel	0
+Разработчик web-интерфейсов	0
+Тренер Microsoft	0
+PHP Yii2 разработчик	0
+Специалист по внедрению и сопровождению АСУ	0
+1С-Битрикс разработчик	0
+Контент-менеджер	0
+Backend -программист	0
+Руководитель IT направления	0
+Front-end разработчик React	0
+3D-моделлер/3d аниматор	0
+Разработчик JS	0
+Frontend developer	0
+IT-рекрутер	0
+Frontend-разработчик (Angular)	0
+PHP- программист	0
+Инженер-программист УИТ (п. Омсукчан , Магаданская область)	0
+Разработчик Android	0
+Инженер автоматизированного тестирования	0
+Разработчик Bitrix	0
+Инженер АСУ ТП	0
+Менеджер проектов (web-разработка)	0
+Ведущий инженер-программист	0
+Руководитель проектов Битрикс	0
+Младший SERM/ SEO специалист/ Junior SERM/ SEO specialist	0
+Программист 1C (Юго-Западный район)	0
+IOS разработчик (senior)	0
+Программист 1С сектора учетных информационных систем	0
+Программист-разработчик для IBM Notes (Lotus)	0
+Full Stack разработчик C#	0
+Руководитель группы Web-разработки	0
+Веб-разработчик (веб-программист)	0
+Программист промышленных контроллеров	0
+Разработчик Blockchain	0
+Ведущий Веб-дизайнер / Senior Web designer	0
+Программист Fullstack (Laravel)	0
+HTML-верстальщик / junior Frontend - программист	0
+Web-разработчик (Python/ReactJS)	0
+Junior Java разработчик	0
+Бизнес аналитик 1 С (Крым, Севастополь)	0
+Full-stack программист Yii2 + Vue JS	0
+PHP-программист/PHP-developer	0
+Product manager	0
+Senior PHP Developer/Веб-программист	0
+Менеджер проектов / Project manager	0
+Инженер-программист микроконтроллеров	0
+Ведущий инженер-схемотехник (медицинская техника)	0
+Программист 1С 8.3.	0
+PHP-разработчик Middle	0
+Аналитик 1С:ERP	0
+Инженер-программист С++(Qt)	0
+PHP-разработчик (удаленная работа)	0
+DevOps engineer	0
+Frontend разработчик (React)	0
+Программист-разработчик PHP	0
+Программист 1C (Системный аналитик)	0
+PHP-разработчик (Symfony)	0
+Консультант по настройке и внедрению ERP систем	0
+PHP-программист/разработчик YII/Битрикс (Bitrix)	0
+Middle/senior C# разработчик	0
+Финансовый инженер (Алгоритмическая торговля)	0
+PHP developer	0
+Программист – Backend разработчик	0
+Верстальщик сайтов	0
+Программист Delphi\MSSQL	0
+Инженер-программист АОВ АСУ ТП	0
+Frontend developer (Middle)	0
+Frontend / FullStack Web-разработчик	0
+Full-stack разработчик (веб)	0
+Разработчик .NET	0
+Drupal developer	0
+Специалист - программист 1С на проект по переносу баз данных	0
+Android - разработчик	0
+Программист	0
+Scala/Java developer	0
+DevOps-инженер в г.Тула	0
+QA Backend Engineer	0
+Middle Python-разработчик	0
+Senior PHP developer	0
+Руководитель отдела 1С-разработки	0
+Qa / Инженер по тестированию	0
+PHP-программист/WEB-программист	0
+Разработчик Node.js	0
+Программист C/C++	0
+Ведущий разработчик битрикс 24	0
+Full Stack разработчик в рекламную сеть	0
+Дизайнер интерфейсов (UX/UI дизайнер)	0
+Руководитель отдела АСУ (проекты по АСУ ТП на промышленных предприятиях)	0
+Системный аналитик (ИТ-компания)	0
+Senior Web Designer	0
+Менеджер ИТ проектов	0
+Разработчик Oracle (PL/SQL)	0
+Консультант-аналитик 1С по регламентированному учету на проекты	0
+Senior Front-end разработчик (Angular/React)	0
+Разработчик Oracle ADF\JSF	0
+Программист 1С 8.3	0
+Team Lead - Разработчик JS	0
+Программист DB Developer (PL/SQL)	0
+Python/Django разработчик / Python/Django developer (удаленно/remote)	0
+Ведущий PHP-программист	0
+Middle/Senior PHP-разработчик	0
+Программист C# / MSSQL	0
+Product Manager	0
+Программист на React / Javascript (Frontend developer / Фронтенд разработчик)	0
+Middle/ Senior PHP-программист (Backend)	0
+Проектировщик систем регламентированного учета предприятий в 1С ERP	0
+Программист Python (ГИС)	0
+PHP разработчик (Middle/Senior)	0
+Middle frontend developer	0
+Java разрабочик	0
+Младший руководитель проектов / Junior project manager	0
+Старший программист (программист C# .NET)	0
+Руководитель проектов 1C	0
+Ведущий аналитик / Младший руководитель проектов	0
+Коммерческий директор	0
+PHP Developer	0
+React Javascript Developer (букмекерский бизнес)	0
+Разработчик C# (fullstack)	0
+Front-end разработчик (TypeScript/React + html/CSS)	0
+C++ Senior Developer (Qt)	0
+Team Lead / Руководитель группы разработки	0
+Senior Full Stack Developer	0
+Технический руководитель PHP веб разработка ( с возможностью удаленной работы)	0
+Senior С++ Developer/Разработчик С++	0
+Программист 1С / разработчик 1С	0
+Vue.js разработчик (middle/senior)	0
+Ведущий разработчик 1С	0
+Разработчик iOS	0
+Senior Frontend-разработчик	0
+Team Lead PHP Developer / Ведущий PHP разработчик	0
+Бизнес-аналитик / Product manager (финтех)	0
+С# (.NET) разработчик	0
+Senior Software Developer in .NET profilers team (dotTrace/dotMemory)	0
+Team Lead / Ruby on Rails разработчик	0
+Ведущий разработчик/ архитектор 1С	0
+Senior developer C#	0
+C# ASP.NET MVC/WebAPI ASP.NET Core MVC/WebAPI JavaScript JQuery Developer	0
+Руководитель отдела архитектуры\Архитектор DWH	0
+Product owner (телеком)	0
+Senior Android developer/ Android Team Lead	0
+Руководитель отдела бизнес-анализа	0
+Директор по продуктам	0
+Менеджер продукта	0
+Младший тестировщик	0
+Программист VBA Access	0
+Junior Front-End Developer	0
+UI Designer (Дизайнер интерфейсов)	0
+Старший финансовый контролер группы анализа инвестиций ( IT)	0
+UX/UI дизайнер (мобильное приложение)	0
+Product Owner SberDevices	0
+Дизайнер (интерфейсов) UX/UI	0
+Руководитель IT проектов	0
+Руководитель продукта	0
+UI/UX-дизайнер	0
+Product Owner	0
+Стажер, Группа улучшения бизнес-технологий и ИТ, направление SAP	0
+Web дизайнер	0
+Ведущий разработчик 1С (интернет-проект в области интеллектуальной собственности)	0
+Начальник сектора интернет-проектов	0
+UX/UI дизайнер	0
+Руководитель отдела технической поддержки	0
+Front-End разработчик (web разработчик)	0
+Руководитель команды/Менеджер проектов продаж IT продуктов	0
+Frontend-разработчик (React, Redux)	0
+Руководитель проектов IT / IT Project manager	0
+Руководитель проектов (разработка ПО)	0
+Product designer (Web/mobile)	0
+Java Team Lead / Mission Critical System	0
+Java разработчик (Middle)	0
+Frontend-разработчик ( Vue)	0
+Директор ИТ в "МАКС-М" (ОМС)	0
+Специалист по тестированию программного обеспечения	0
+Менеджер продукта / Product owner	0
+Senior Python Разработчик	0
+Senior Android разработчик	0
+Project Manager / Менеджер проектов (web)	0
+Менеджер проектов M2M/IOT	0
+Middle and Senior Front-end Developer	0
+Директор по производству ПО	0
+Программист 1С (УХ)	0
+Главный специалист (программист) отдела рыночных рисков Управления финансовых рисков	0
+Тренер по продукту	0
+Руководитель проекта Stream	0
+UI/UX Designer (MMSDelivery)	0
+Ведущий разработчик Java (Калуга)	0
+Менеджер проектов / Project Manager	0
+Руководитель направления в Управление разработки	0
+IT Project Manager / Technical Lead - Retail Experience & Innovation	0
+UX/UI дизайнер (FinTech)	0
+Методолог/эксперт по автоматизации процессов (ТОиР)	0
+Front-end разработчик (Веб-программист)	0
+UI/UX/Web дизайнер	0
+Data Scientist / Machine Learning Developer	0
+Старший системный аналитик	0
+Руководитель ИТ-проектов Управления развития розничных технологий	0
+Программист-разработчик (PHP)	0
+Project Manager (Digital)	0
+Frontend - разработчик ( React )	0
+Билд-инженер/Программист Python (Continuous Integration)	0
+Разработчик JavaScript	0
+Системный аналитик / Руководитель проекта	0
+Middle PHP разработчик	0
+DevOps/ Site Reliability Engineer	0
+Frontend-разработчик (Donation Alerts)	0
+Frontend разработчик (JavaScript)	0
+Руководитель проектов разработки сайтов и мобильных приложений	0
+DevOps инженер [id16556]	0
+Backend разработчик (PHP)	0
+Frontend-разработчик (видеоплеер, SmartTV)	0
+Senior Java developer/ Java Architect (Aviation)	0
+1С Программист - консультант	0
+Web-дизайнер UI/UX Designer	0
+Бизнес аналитик	0
+Стажер в группу веб-технологий	0
+Разработчик-аналитик VBA, Excel	0
+Системный аналитик (Автоматизация процессов)	0
+Руководитель отдела 1С	0
+Веб-разработчик frontend	0
+Художник (Game Art)	0
+Руководитель проектов разработки экспертных систем	0
+UX/UI designer	0
+UX designer	0
+JavaScript Frontend (Переписываем проект на Vue.js)	0
+Java script (React) developer	0
+Дизайнер интерфейсов - UX/UI	0
+Business Analyst	0
+Frontend Developer (React)	0
+UI / UX дизайнер	0
+Управляющий менеджер по ИТ-проектам (Корпоративный бизнес)	0
+Ведущий менеджер IT-проектов	0
+Эксперт/Аналитик в области электроэнергетики (Центр Smart Grid)	0
+Менеджер по контекстной рекламе	0
+Middle front-end developer (ReactJS)	0
+Software developer C++ (cloud computing)	0
+Корпоративный архитектор по направлению «Разведка и Добыча»	0
+Chief Technical Officer / CTO	0
+Руководитель отдела продуктового менеджмента / Chief Product Owner (CPO)	0
+Руководитель отдела эксплуатации инфраструктуры (Stream)	0
+Руководитель отдела внедрения 1С	0
+Golang developer	0
+Дизайнер UX/UI (проект Торги)	0
+Computer Vision developer (robotics)	0
+Разработчик DWH/BI	0
+Дизайнер (UX / UI)	0
+IT Area Lead	0
+Руководитель проектов (Проект создания логистической платформы)	0
+Javascript Developer	0
+Проектировщик пользовательских интерфейсов (UX/UI)	0
+Проектировщик - разработчик/Программист 1С ЗУП	0
+Middle Go Developer	0
+Senior/middle Frontend-разработчик (X-Project)	0
+Программист 1C (розничная торговля)	0
+UX/UI Designer	0
+Chief Infrastructure Officer \ CIO	0
+Разработчик .Net Full-stack	0
+Front end разработчик	0
+Java-разработчик команды Risk Decisions	0
+Старший аналитик (программа "Базис")	0
+Senior .NET developer (Scrum Master)	0
+Senior Python Developer (Payment Systems), Cyprus, Limassol	0
+Middle Node.js разработчик	0
+Руководитель по развитию продуктов (IoT)	0
+Аналитик (QlikView\Qlik Sence)	0
+GUI программист/Frontend-разработчик	0
+Разработчик frontend (react)	0
+UХ/UI -дизайнер	0
+Frontend-разработчик(React/Redux)	0
+Middle frontend developer (React.JS)	0
+Дизайнер UI	0
+Руководитель международных software проектов	0
+Программист в Отдел веб-разработки (React, JS)	0
+Программист Oracle	0
+Middle Backend developer (Django)	0
+Product manager (mobile app development)	0
+Менеджер IT проектов / IT Project Manager (Digital Marketing, international company)	0
+Руководитель ИТ-проектов (Collection)	0
+Инженер по разработке	0
+QA инженер	0
+IOS разработчик Stream Мой MTS Санкт-Петербург	0
+Java-разработчик в отдел инфосистем	0
+UI/UX Designer	0
+Java разработчик / Java Developer	0
+Программист 1С (по переходу в 1С:ERP)	0
+Senior product designer	0
+Специалист по обслуживанию и ремонту онлайн-касс	0
+Team Lead Java	0
+Программист 1С ЗУП	0
+Менеджер продукта Яндекс.Недвижимость	0
+Разработчик онлайн курсов Scorm	0
+Software developer C++ (algorithms & optimization)	0
+Руководитель отдела веб-разработки	0
+IT recruiter	0
+Архитектор-разработчик 1С	0
+Главный специалист / Front-end разработчик (ReactJs)	0
+Архитектор информационных сервисов (корпоративный блок)	0
+Менеджер архитектурных решений	0
+Ведущий разработчик Java (Groovy)	0
+Full-stack разработчик (Отдел прототипирования)	0
+Разработчик программного обеспечения	0
+Ведущий программист	0
+Разработчик Delphi\SQL в Дирекцию информационных технологий	0
+Ведущий разработчик СЭД	0
+IT Project Specialist	0
+Product manager (Supply chain)	0
+UX дизайнер	0
+Программист игровой логики C# (Unity)	0
+Middle software engineer (Java developer)	0
+Product manager отдела развития электронных каналов (МСБ)	0
+Главный специалист по разработке новых сервисов	0
+Java разработчик (Spring Boot)	0
+Старший программист С++	0
+Методолог/Менеджер процессов Тестирования	0
+Владелец продукта (Product Owner)	0
+Тестировщик ПО/QA	0
+Android-разработчик	0
+Frontend-разработчик (Vue.js)	0
+Разработчик Backend C/C++	0
+Аналитик 1С	0
+Front-End разработчик	0
+Программист PHP (middle)	0
+Разработчик PHP	0
+Программист 1C (в торговую компанию)	0
+Функциональный архитектор данных	0
+C++ разработчик (Middle и выше)	0
+Frontend developer (B2B)	0
+Senior Data scientist (NLP, чат бот)	0
+Старший программист 1С	0
+Разработчик Java (СберОмни)	0
+Unity программист	0
+Руководитель управления аналитики	0
+Менеджер по развитию продуктов	0
+React FrontEnd	0
+Разработчик MS SQL-Server	0
+Программист на фреймворке Yii2	0
+Веб-разработчик / Программист	0
+Junior JavaScript	0
+Руководитель группы проектного управления	0
+Pre-sales manager	0
+Ведущий специалист по поддержке рабочих мест [id21313]	0
+Ведущий разработчик Java	0
+Программист Delphi	0
+Программист 1С (поддержка)	0
+Системный аналитик в направление antifraud и противодействие мошенничеству	0
+Разработчик 1C	0
+Senior JavaScript developer (руководитель команды)	0
+Ведущий аналитик (бизнес-аналитик)	0
+Тестировщик / QA-инженер (middle, senior)	0
+Manual QA в Программу лояльности	0
+Backend/SQL developer	0
+Ведущий программист С (Си)	0
+Разработчик Java	0
+Scala разработчик	0
+Консультант 1С ЗУП	0
+Руководитель проектов по разработке программного обеспечения	0
+Junior Front-end Developer	0
+Руководитель проектов разработки ПО (внутренние проекты)	0
+Стажер-тестировщик (Нагрузочное тестирование)	0
+Product Manager (международный проект)	0
+Консультант SAP MM/SD	0
+Администратор инфраструктуры JSOC	0
+Разработчик MS Dynamics AX	0
+Ведущий веб разработчик	0
+Senior frontend developer	0
+React-разработчик	0
+Директор департамента системной аналитики	0
+Руководитель проектов (внедрение и доработка)	0
+Верстальщик / Junior JS разработчик	0
+Product owner в команду 'Daily Banking'	0
+IT Директор (Краснодарский край, г. Белореченск)	0
+Системный аналитик (Web)	0
+Младший программист-консультант 1C	0
+Java-разработчик (кибербезопасность)	0
+Frontend разработчик (React/Angular)	0
+Java Team Lead	0
+Программист / Разработчик 1С на платформе 8.х	0
+Инженер по работе с системами "Умный дом"(инженер КиПиА)	0
+Стажер-тестировщик (Автоматизированное тестирование)	0
+Менеджер проектов внедрения ПО (автоматизация банков и финансовых компаний)	0
+Java разработчик	0
+Программист 1С - Битрикс	0
+Заместитель технического директора / CTO	0
+Frontend-разработчик (Verticals)	0
+Менеджер проектов (анализ и автоматизация отчетности)	0
+Начальник отдела разработки	0
+Начальник отдела программирования	0
+Программист .NET (С#) / ASP.NET	0
+Middle/Senior .NET Developer	0
+UX Архитектор	0
+PHP Developer / PHP разработчик	0
+Разработчик C# / C++/ C (Москва)	0
+Консультант (Data Analytics), Группа улучшения бизнес-технологий и ИТ	0
+PHP программист / Web разработчик  (Middle/Senior)	0
+Системный аналитик/Эксперт (транспорт, логистика)	0
+Проектировщик пользовательских интерфейсов UI/UX	0
+Web-дизайнер / UX-специалист	0
+Руководитель отдела по разработке информационных систем	0
+Project Manager (MRGV, MY.GAMES)	0
+Senior Software Engineer, Microservices (Golang)	0
+Back-end программист (Junior)	0
+Системный аналитик в Отдел разработки систем финансового мониторинга	0
+Продакт-менеджер/Менеджер продукта BI	0
+UX исследователь	0
+Дизайнер интерфейсов	0
+Руководитель проектного офиса	0
+ИТ Консультант	0
+Разработчик WordPress	0
+PR-менеджер	0
+Руководитель проектов разработки	0
+Главный бизнес-аналитик	0
+Дизайнер UX/UI	0
+Разработчик мобильных приложений iOS (Стажер)	0
+Менеджер по развитию продукта (облачный сервис/нейросеть, в США)	0
+Senior Data Scientist	0
+Руководитель проектов разработки (проекты хранилищ (DWH) и аналитики (BI))	0
+Data Scientist	0
+Менеджер процесса	0
+Системный аналитик (интеллектуальная система управления)	0
+Архитектор 1С	0
+Front-end разработчик (ReactJs)	0
+IOS Developer	0
+Ведущий фронтенд разработчик (Аngular )	0
+Android разработчик (ст.м. Автозаводская)	0
+Middle+ JS (React) developer/ разработчик	0
+Руководитель команды разработки ПО обособленного подразделения	0
+Разработчик Big Data	0
+Преподаватель по предмету Дизайн продукта (юзабилити)	0
+Frontend разработчик в команду Home portal	0
+Junior программист С++	0
+Machine Learning специалист	0
+Системный аналитик (Платформа Услуг)	0
+Архитектор Big Data	0
+Руководитель Java-разработки в CIB	0
+Backend-разработчик	0
+QlikView/Sense разработчик (задачи HR департамента)	0
+Front-end Developer	0
+Unity-программист	0
+Frontend Software Developer	0
+Бизнес-аналитик	0
+Java Developer (SberDevices)	0
+Эксперт отдела систем на платформе IBM MDM	0
+UX Аналитик	0
+Frontend-разработчик (Vue.js/ React.js)	0
+Эксперт по цифровым системам	0
+IT аналитик (Государственные заказы)	0
+Frontend разработчик JS React	0
+Руководитель проекта внедрения 1С	0
+Java Developer with Camunda BPM	0
+Эксперт по защите информации (сети, пентест)	0
+Методолог в Платежи и переводы	0
+Инженер-разработчик аналоговых блоков	0
+Go-разработчик	0
+Middle/Senior golang developer (Интерактивное телевидение)	0
+QA / Специалист по тестированию (web)	0
+Разработчик C# (Dynamics 365)	0
+С++ Developer – разработчик (Frontend)	0
+IOS Developer (Swift)	0
+Разработчик iOS в сервис Яндекс.Еда	0
+Программист 1С / Ведущий программист 1С	0
+Разработчик Oracle/ Delphi	0
+SAP PM консультант	0
+Веб-разработчик (PHP+JavaScript+PostgreSQL)	0
+Программист-разработчик 1C	0
+JavaScript разработчик (React)	0
+Разработчик .Net С#	0
+Разработчик Oracle PL/SQL (АБС Новая Афина)	0
+Team lead Java (Full stack)	0
+Начинающий ABAP разработчик	0
+Разработчик/программист WebTutor	0
+Senior Front-end developer	0
+Программист 1C/ Разработчик 1С	0
+PHP-разработчик (Zend)	0
+Старший разработчик Oracle	0
+Разработчик	0
+Инженер-программист ABAP	0
+Full Stack разработчик	0
+Разработчик микросервисных решений (1С)	0
+Senior/ Middle .NET Developer	0
+Разработчик интерфейсов (Буткемп)	0
+Senior-developer (PHP, Go)	0
+Разработчик производтвенных ИТ-систем	0
+Старший руководитель проектов Центра внедрения и сопровождения (банковское ПО)	0
+Senior .NET Developer	0
+Fullstack разработчик	0
+Ведущий разработчик/Разработчик 1С	0
+Java Senior developer (поисковые технологии)	0
+Frontend Developer (React) - Middle/Senior	0
+Senior PHP developer (PHP разработчик)	0
+Ведущий разработчик SAP BO	0
+Специалист поддержки и развития MES-систем	0
+Специалист DevOps (центр AI)	0
+Разработчик JavaScript (Native)	0
+Senior Azure DevOps Engineer	0
+Ведущий специалист по поддержке рабочих мест [id21101]	0
+Руководитель управления сопровождения 1С	0
+Frontend-разработчик Vue.js	0
+Бизнес-аналитик (специалист отдела моделирования бизнес-процессов)	0
+QA Lead\Руководитель команды тестирования	0
+Back-end-разработчик	0
+Golang разработчик видеотрансляций	0
+Product Owner / Project Manager	0
+Менеджер проектов автоматизации	0
+3D Artist	0
+IT рекрутер	0
+Product designer(UI/UX)	0
+Middle/Senior .NET SDE	0
+Руководитель проекта (ИТ)	0
+QA Engineer	0
+Бизнес-архитектор	0
+Стажер-тестировщик (нагрузочное тестирование)	0
+Системный инженер (поддержка разработки)	0
+Веб-разработчик (PHP full-stack) / middle PHP / Javascript / MySQL / CSS / HTML	0
+Эксперт по автоматизации отчетности (MS SQL, Qlik View)	0
+Руководитель направления/Аналитик (Управление данными)	0
+Senior Developer PHP/Разработчик PHP	0
+HTML-верстальщик/Frontend-разработчик	0
+Веб-программист (FrontEnd)	0
+Руководитель проекта 1С	0
+IT Project Manager	0
+Руководитель проекта ОКР (ИТ)	0
+Тестировщик (QA)	0
+Менеджер проекта	0
+Программист-разработчик	0
+Младший разработчик DWH, ETL, SQL (Junior developer)	0
+Старший менеджер Управления по методологии и контролю проектной деятельности	0
+Программист на платформе 1С Предприятие 8.3	0
+Java team lead	0
+Эксперт по геоинформационным системам, программист (резерв)	0
+Начальник отдела информационных технологий автоматизации и телекоммуникаций [id20170]	0
+Программист С++ GUI (Qt)	0
+Junior-разработчик	0
+Инженер по тестированию (Санкт-Петербург)	0
+Специалист по сопровождению ПО	0
+Android разработчик (Middle)	0
+Разработчик электронных курсов	0
+Программист / Ведущий программист С++	0
+Scrum Master	0
+Product owner	0
+Java - разработчик	0
+Computer Vision Engineer	0
+Специалист IT	0
+ИТ-аналитик	0
+Java Middle Developer	0
+Wordpress разработчик	0
+Java-developer	0
+PL/SQL разработчик БД Oracle	0
+Pre-sale инженер	0
+Руководитель проектов RPA	0
+Ведущий инженер-разработчик	0
+Системный администратор Linux / DevOps	0
+Node.js разработчик	0
+Frontend-разработчик/SEO-специалист	0
+Инженер группы внедрения и сопровождения ПО	0
+Android разработчик/ Android developer	0
+Начинающий специалист / программист(физик)	0
+Младший php-разработчик	0
+Senior Front-end Developer (React)	0
+Дизайнер UX / UI	0
+Platform Owner	0
+Java программист	0
+Стажер/Специалист (Data Scientist, Группа улучшения бизнес-технологии и ИТ)	0
+Стажер - разработчик (full - stack JS/C#)	0
+Стажер web-разработчик	0
+Инженер технической поддержки (удаленная поддержка)	0
+Middle/Senior Android разработчик	0
+Ведущий инженер в Центральное диспетчерское управление	0
+Ведущий системный аналитик	0
+Старший администратор группы мониторинга бизнес-процессов	0
+Разработчик Java (м. Маяковская)	0
+Главный консультант SAP SD	0
+Back end developer Node.js	0
+Эксперт САПР	0
+Frontend-разработчик (SmartUniversity)	0
+Ведущий разработчик OEBS	0
+Engineering Manager	0
+Разработчик Java (JavaEE, Spring)	0
+Менеджер по разработке программного обеспечения	0
+Начальник отдела АСУТП	0
+Системный администратор (DevOps)	0
+Frontend Team Lead	0
+Программист 1С/ведущий программист 1 С	0
+Senior PHP-developer	0
+Ведущий аналитик бизнес-процессов	0
+System Analyst / Business Analyst	0
+Frontend Developer (Javascript,React)	0
+Системный администратор (help desk)/ Старший системный администратор	0
+Ведущий инженер по тестированию (фунциональное/интеграционное тестирование)	0
+Frontend-разработчик (React.js)	0
+Senior UX - проектировщик	0
+Специалист службы технической поддержки	0
+UX Designer	0
+Программист 1C ERP	0
+Python-разработчик	0
+Oracle PL/SQL developer	0
+Frontend .Vue developer	0
+IT-специалист	0
+Эксперт по определению кадастровой стоимости (резерв)	0
+Системный программист ОС GNU/Linux встраиваемых систем	0
+Ведущий разработчик BI	0
+Frontend Developer (react.js)	0
+Тестировщик на АС SAP LM	0
+Программист 1С (бухгалтерия)	0
+Frontend-разработчик (React) middle/senior	0
+Технолог (системный анализ)	0
+Backend программист (C#)	0
+Back-end разработчик Go (CloudMTS)	0
+Программист -разработчик IOS	0
+Разработчик С/С++	0
+Специалист по сопровождению и тестированию ПО (HelpDesc)	0
+IT-архитектор	0
+Unity C# Developer (Прага, Чехия)	0
+Ведущий специалист по интеграции / SAP PO/PI	0
+Frontend Developer (Vue.js)	0
+Customer Support Specialist	0
+Android + iOS разработчик	0
+Senior DataBase Developer (Oracle)	0
+Ведущий Java разработчик	0
+Team leader/ Ведущий Front-end разработчик	0
+Full stack / Backend Web Developer - CIS Technology Services - Internal Client Services	0
+Исполнительный директор	0
+Бизнес-архитектор / Бизнес-аналитик	0
+Product manager it	0
+Менеджер ресурсов и внедрения изменений (Релиз-менеджер)	0
+VBA разработчик	0
+Инженер-системотехник (программист встроенных систем)	0
+Специалист по поддержке 1С	0
+Senior developer PHP / Team-lead	0
+Программист-разработчик 1С	0
+Product Designer	0
+Бекенд-разработчик /Back-end developer на Python (Flask/Django)	0
+Junior Frontend-developer	0
+Cистемный администратор департамента ИТ	0
+IT business analyst/Project Manager	0
+Junior DevOps	0
+Техлид	0
+JAVA - разработчик	0
+Разработчик JavaScript (React, м.Добрынинская)	0
+QA Engineer  (Systems Tester)	0
+Frontend Developer (Angular, TypeScript)	0
+Консультант 1С Управление холдингом	0
+Разработчик С++/Qt	0
+Главный дизайнер	0
+Программист С++ (Linux)	0
+IOS разработчик/ iOS developer	0
+Архитектор по инфраструктуре Big Data (Oracle, Hadoop)	0
+Unity разработчик на C#	0
+Аналитик-разработчик баз данных (SQL)	0
+Product owner (Цифровая платформа)	0
+Product Marketing Manager	0
+IT Recruiter/IT Рекрутер	0
+Программист (ERP/ 1С 8 / /УТ 11)	0
+Android developer / Kotlin	0
+Web-разработчик (Perl)	0
+Java-разработчик (по разработке решений Service Desk)	0
+С# разработчик (back-end)	0
+Ведущий программист 1C (ЗУП)	0
+Java-разработчик SMP	0
+Ведущий разработчик C#	0
+Angular Developer (Billing)	0
+Аналитик (направление Автоматизации кассовых центров)	0
+Senior Developer (India)	0
+Проектировщик интерфейсов	0
+Golang разработчик в юнит SafeDeal	0
+Senior Frontend Developer (React)	0
+Программист С#	0
+Fullstack-разработчик	0
+Ведущий программист JavaScript React/Redux	0
+Middle/Senior Java Developer	0
+Программист 1С, г.Пермь	0
+Специалист BI	0
+Technical Leader Java	0
+Консультант SAP MM	0
+PHP-разработчик (Bitrix)	0
+Руководитель направления (DevOps, ЦК Фронтальные системы)	0
+Разработчик Microsoft SQL/ DBA-архитектор	0
+Ведущий инженер-программист 1С отдела разработки отрослевого программного обеспечения г. Тюмень	0
+DevOps Engineer	0
+Java Full Stack разработчик	0
+Middle Data Engineer	0
+Data Warehouse Architect	0
+Руководитель UX лаборатории (Stream)	0
+Разработчик Bitrix24	0
+Lead Java Developer	0
+Business Analyst in BSS Solution Delivery	0
+Старший инженер Service Manager	0
+Senior Разработчик front-end (Angular)	0
+Angular Developer	0
+Senior Java Developer	0
+Ведущий разработчик	0
+Учитель информатики	0
+Консультант SAP BW	0
+Ведущий backend-разработчик (Java)	0
+Программист C# (WPF, UWP)	0
+Разработчик в отдел оптимизации процессов	0
+Product manager (BU Sport/Books)	0
+Chief Information Security Officer (CISO)	0
+DevOps инженер / DevOps Engineer	0
+QA Automation Engineer (Automated Deployment System)	0
+Разработчик React / React-разработчик	0
+Ведущий разработчик C# (team lead)	0
+DevOps-инженер / DevOps Engineer (сервис Dr.Web Cloud)	0
+Инженер по внедрению программного обеспечения	0
+Инженер-программист по развитию программ дистанционного обучения в университете	0
+Web-мастер цифровой платформы и маркетплейса общественных организаций	0
+Middle/Senior JavaScript	0
+Руководитель IT проекта Ростехнадзор/ЖКХ	0
+Аналитик CJE (Боты в голосе и тексте.IVR экосистемы)	0
+Программист 1С ERP / Консультант-аналитик 1С ERP	0
+Java-разработчик команды дебетовых карт и транзакционных продуктов	0
+Junior Java-разработчик	0
+IOS разработчик (Swift)	0
+Frontend React developer	0
+Backend PHP developer	0
+Ведущий эксперт (математическое моделирование)	0
+Руководитель проекта (телемедицина)	0
+Product Owner (Cloud Communications - Telephony)	0
+Разработчик .NET C# SQL (Middle)	0
+Middle javascript разработчик (id11053)	0
+Back-end разработчик (Java Junior)	0
+Младший программист Python	0
+Заместитель руководителя отдела разработки программного обеспечения	0
+Product Owner (Команда DS)	0
+C# разработчик	0
+Разработчик Java / Middle Java developer	0
+Senior Python разработчик	0
+Эксперт-разработчик С++	0
+Комьюнити-менеджер (SMM)	0
+Аналитик данных (интеллектуальная система управления)	0
+Разработчик PL\SQL	0
+Программист 1С (производственное планирование)	0
+Менеджер проектов по внедрению электронного документооборота	0
+Web-дизайнер \ иллюстратор	0
+Разработчик баз данных	0
+Go (Golang) разработчик	0
+Go-разработчик (Middle)	0
+Ведущий разработчик 1С ЗУП	0
+Разработчик С/С++ (под ОС Linux)	0
+Системный аналитик (развитие сервисов)	0
+QA engineer Billing / Инженер по тестированию ПО (Billing)	0
+Разработчик Ruby-on-Rails	0
+Java/Kotlin-разработчик (BPM)	0
+Ведущий разработчик PHP	0
+ABAP-разработчик	0
+Программист ABAP (младший специалист)	0
+Developer (Salesforce)	0
+Фулл-стек разработчик	0
+1С-разработчик	0
+QA Lead engineer (backend)	0
+Разработчик 1С/ERP	0
+Программист/Разработчик решений 1С: Управление Холдингом	0
+Senior C++ developer	0
+DevOps Engineer (Analytics)	0
+Разработчик Axapta (DAX/ AX/ X++)	0
+PostgreSQL DBA	0
+Backend Node JS разработчик	0
+Стажер Frontend	0
+Технический художник (Unity3D/UE4, Realtime)	0
+Data scientist	0
+Менеджер продукта "Финансовые инструменты"	0
+Руководитель службы Pega разработки	0
+Разработчик Pl/SQL (информационно-аналитический центр)	0
+PHP Backend разработчик	0
+Frontend разработчик (JS, React, Redux, TypeScript). Проект "ДБО"	0
+Программист-аналитик 1С	0
+Content specialist	0
+Программист-математик С++	0
+Старший Java-разработчик	0
+Программист С# (Санкт-Петербург)	0
+Middle Java Developer	0
+Ведущий разработчик Team Lead	0
+Разработчик BPM-процессов (Camunda)	0
+Java Team Lead (RCV)	0
+Руководитель группы по исключению причин ошибок автоматического списания в системе SAP	0
+Разработчик SAS	0
+Ведущий системный программист ОС GNU/Linux встраиваемых систем	0
+Главный программист С++ (бизнес-терминалы)	0
+Разработчик Sharepoint Online	0
+Senior backend developer ( Go + Node.js)	0
+Программист SQL и C#	0
+Разработчик бизнес процессов	0
+Devops - инженер	0
+Ведущий программист 1С (УТ)	0
+Middle C# / .NET developer	0
+Сташий системный аналитик (MSA)	0
+Архитектор поддержки и эксплуатации корпоративных бизнес-приложений	0
+Главный специалист / Разработчик ПО	0
+Разработчик Java (Alfresco)	0
+Разработчик java (Hadoop)	0
+Консультант 1С/Программист 1С	0
+Java-программист	0
+Программист 1С (г. Подольск)	0
+Специалист по платформе Documentum	0
+Инженер АСДУ (Тверская обл., г. Бежецк)	0
+Главный архитектор 1С	0
+Middle/Senior Java Developer (BigData team, Казань)	0
+Старший Backend разработчик	0
+Backend Developer	0
+Head of Data Science	0
+Руководитель службы сопровождения продуктов Colvir	0
+Начинающий web-разработчик(стажёр)	0
+Руководитель проекта/Ведущий аналитик по данным (CDO)	0
+Python backend developer	0
+Product bundles Owner по продуктам экосистемы В2В	0
+Project Manager	0
+Заместитель начальника Управления методологии и анализа кредитных рисков (PD, LGD)	0
+Ведущий программист 1C / Ведущий разработчик 1С	0
+Senior Java разработчик	0
+QA Tech Lead	0
+PHP-Разработчик (Symfony)-удаленно	0
+Разработчик Backend PHP/GO (Юнит Safedeal)	0
+Старший бизнес-‎аналитик	0
+Руководитель отдела разработки 1С	0
+Стажер, Группа процессной роботизации (RPA)	0
+Frontend-разработчик (junior)	0
+Стажер аналитик-консультант НСИ (м. Ботанический сад / МЦК Ботанический сад)	0
+Разработчик WMS	0
+VBA Developer	0
+SCADA-разработчик	0
+Руководитель службы разработки ПО	0
+Аналитик-программист SQL	0
+Старший программист Python	0
+Помощник программиста (1C)	0
+Руководитель проекта BI	0
+Quantitative researcher	0
+Начальник участка автоматики (КИП и А)	0
+Java / Kotlin Developer	0
+Ведущий разработчик Oracle	0
+Data Engineer отдела аудита информационных технологий (Python, SQL, Oracle)	0
+Разработчик JavaScript (React)	0
+Программист C#/ASP.NET	0
+HTML-верстальщик/Контент-менеджер	0
+Руководитель направления в Центр развития хранилища данных и управленческой отчетности	0
+Системный архитектор	0
+Программист Full-stack	0
+Java-разработчик (middle/senior)	0
+PHP-программист (senior)	0
+Ведущий php-разработчик (операторский интерфейс)	0
+Ведущий менеджер безопасности систем SAP	0
+Руководитель группы мобильной разработки	0
+Ведущий инженер-программист 1С	1
+Node.js developer	0
+Программист / разработчик / эксперт	0
+Ведущий программист / Программист Java	0
+Front-end Developer (React)	0
+C Developer / Программист С (группа Россия / группа Европа)	0
+Специалист по тестированию/QA Specialist 1С:Fresh	0
+Back-end разработчик (Java)	0
+Программист Bitrix24	0
+Backend разработчик (Java)	0
+Разработчик встраиваемых систем	0
+Frontend developer (Enterprise division)	0
+Python-программист для задач по сопровождению	0
+Computer Vision Research and Development Engineer	0
+Middle Frontend - разработчик	0
+Frontend developer (react)	0
+Ведущий специалист по тестированию (Big Data)	0
+Middle Backend Developer	0
+Разработчик JavaScript (React), м. Кутузовская	0
+QA специалист/QA инженер	0
+QA Android Engineer	0
+Java-developer в команду Compliance	0
+Программист С++ (мобильные игры)	0
+Менеджер проектов	0
+Веб-мастер	0
+Web-тестировщик (QA engineer)	0
+Frontend-разработчик (React JS)	0
+Программист-разработчик (Oracle PL/SQL/Delphi)	0
+Архитектор по направлению капитальное строительство (SAP PS)	0
+Middle Ruby on Rails-разработчик	0
+Инженер-проектировщик Oracle	0
+Backend разработчик (Golang)	0
+Разработчик/программист PHP/Битрикс	0
+Разработчик Java / Java Developer (м. Кутузовская)	0
+Python-разработчик в сервис Яндекс.Лавка	0
+ML Engineer/ Data Scientist	0
+Senior Consultant (системный и бизнес анализ)	0
+Главный специалист (администрирование корпоративной системы управления проектами)	0
+Web-разработчик PHP	0
+Программист .net	0
+Программист 1С: Бухгалтерия 8 (версия Корп)	0
+Младший С# разработчик	0
+Ведущий разработчик 1С (ERP)	0
+Программист С++ (Qt)	0
+Продуктовый дизайнер	0
+Ведущий специалист отдела внутреннем автоматизации (1C)	0
+Data Analyst (Python + SQL)	0
+Менеджер IT-проектов/Scrum Master	0
+React developer	0
+Директор IT департамента	0
+Главный специалист по системам управления на производстве MES [id13722]	0
+Product менеджер	0
+Специалист по информационным технологиям	0
+Руководитель команды Data Science (Predictive Analytic Solutions)	0
+Руководитель проекта	0
+Senior Manager Business Solutions	0
+Руководитель IT проектов / Project manager	0
+Координатор проекта (по разработке приложений)	0
+Тестировщик программного обеспечения/QA engineer	0
+Лидер разработки	0
+Тестировщик	0
+Директор проектов (Дивизион Массовая персонализация)	0
+Аналитик MS SQL (Junior)	0
+IT HR Manager	0
+IOS - разработчик	0
+QA engineer	0
+Специалист по сопровождению и тестированию программного обеспечения	0
+Бизнес-аналитик экспертной группы	0
+Senior PHP Developer / Ведущий PHP разработчик	0
+Developer	0
+Scrum Leader / Agile Evangelist	0
+Data engineer команды AntiFraud	0
+Программист С	0
+Backend - разработчик	0
+Full Stack разработчик (Python, React)	0
+Golang Developer	0
+DevOps Team lead / Руководитель команды системных инженеров	0
+Data analyst	0
+Data engineer (Big Data team)	0
+Java Developer (Россия)	0
+C# программист	0
+Android Developer	0
+Программист 1С: ERP	0
+Product Owner \ Product Manager (B2C innovative product )	0
+ServiceNow Developer	0
+Специалист по тестированию	0
+Разработчик Oracle	0
+Разработчик Front-end / Frontend developer	0
+Руководитель отдела разработки и внедрения (Санкт-Петербург)	0
+Angular разработчик	0
+Программист C++ (Антивирусы для почтовых серверов и шлюзов)	0
+Старший инженер-программист С++ (Беспилотное направление)	0
+DevOps Engineer (USA)	0
+Senior Frontend разработчик	0
+Angular Developer в команду Тинькофф Банка	0
+Аналитик-разработчик ETL/Data Engineer	0
+PHP Developer (Drupal)	0
+Unity Разработчик мобильных игр IOS, Android	0
+BIM менеджер/BIM координатор	0
+Senior JavaScript Developer	0
+Инженер по автоматизации тестирования/Automation QA (Java)	0
+Frontend Программист / Developer (React native/Swift)	0
+Java-разработчик (Интеграция)	0
+Frontend разработчик (Angular)	0
+Frontend developer (HTML5, React, Javascript)	0
+Junior QA Engineer / Младший специалист по тестированию	0
+Инженер-программист АСУ ТП (стажер)	0
+Специалист по IT/Интернет Маркетолог	0
+Программист-консультант 1С (Стажёр)	0
+PHP - разработчик	0
+Технический руководитель продуктового направления	0
+Руководитель разработки	0
+Специалист - консультант 1С ERP Оплата по договоренности	0
+Backend-разработчик (PHP)	0
+Android developer	0
+Разработчик внешних компонент С++	0
+Ведущий iOS разработчик (платформенная команда)	0
+Senior DevOps	0
+Middle (C#, ASP.NET MVC, SQL) developer	0
+.NET developer	0
+Senior BI Consultant	0
+Fullstack Программист (С#)	0
+Team Lead C#	0
+Ведущий программист (C#, .NET, SQL)	0
+IT-специалист / Программист	0
+Программист-консультант 1 С (по финансовому учету)	0
+Data Scientist (онлайн-сервис)	0
+Frontend Developer (JavaScript)	0
+Ведущий программист-проектировщик	0
+Специалист по разработке и поддержке BI систем	0
+Технический руководитель проектов	0
+Программист 1C (ЗУП)	0
+Консультант-программист 1С (пгт. Усть-Нера)	0
+Java разработчик (RPA)	0
+Программист 1С 8.2	0
+Senior Data Scientist в NLP лабораторию СКБ Контур	0
+Инженер по автоматизации тестирования	0
+C++ Developer (mobile)	0
+Разработчик BI	0
+Backend-разработчик (.NET Core, NodeJS)	0
+Golang - разработчик	0
+Software developer in test (SDK)	0
+Разработчик баз данных / Database developer	0
+Python backend developer/Application APP IN THE AIR	0
+Middle С++ software developer (PDF products development group)	0
+Ведущий разработчик 1С в АТОЛ Онлайн	0
+Эксперт-аналитик IP TV	0
+Эксперт по сопровождению процессинговых систем	0
+Фронтенд-разработчик (React \ Redux)	0
+Data Scientist (NLP, Graph)	0
+Главный инженер по тестированию	0
+Специалист по роботизации процессов	0
+Консультант SAP PP/QM	0
+Android\ iOS Developer	0
+Разработчик Unity3d (middle/ senior)	0
+Data Engineer in Oil & Gas	0
+Full Stack/Back-end разработчик	0
+Ведущий разработчик Oracle (Senior Oracle Developer)	0
+Разработчик программного обеспечения 1С УХ	0
+Технический консультант / эксперт по ИТ-инфраструктуре	0
+Scala Developer	0
+Программист WebGL	0
+System engineer	0
+Frontend-архитектор (React)	0
+Разработчик BI решений (стэк Microsoft) - Senior	0
+Ведущий инженер-программист (разработчик) 1С	0
+С++ Разработчик	0
+Backend-разработчик (Java стек)	0
+Программист 1 C	0
+Главный инженер-разработчик (DevOps-инженер)	0
+Fullstack (AI)	0
+Руководитель проекта по автоматизации управленческого учета	0
+Разработчик C# (backend/Full stack C# developer)	0
+Junior project manager	0
+Менеджер ИТ-продукта/Руководитель отдела интеграционных платформ	0
+Программист Python(Django)	0
+Руководитель технической поддержки HelpDesk	0
+Аналитик процессингового центра	0
+Инженер по АСУ ТП	0
+Product owner (ИТ оборудование:производство и разработка)	0
+Программист битрикс	0
+Fullstack-разработчик в отдел ADFOX (стажер)	0
+Бизнес-аналитик (IT, автоматизация)	0
+Product manager / project manager	0
+Руководитель проектов (CRM)	0
+Продакт-менеджер услуг дата-центров / Product Manager	0
+Ведущий бизнес-аналитик (процессы операционного сопровождения)	0
+Консультант 1С ЗУП [id16087]	0
+----------------
+От 3 до 6 лет	1
+----------------
+Полная занятость	1
+----------------
+Полный день	1
+----------------
